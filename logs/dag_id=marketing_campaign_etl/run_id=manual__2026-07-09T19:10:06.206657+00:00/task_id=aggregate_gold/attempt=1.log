@@ -1,0 +1,34 @@
+[2026-07-09T19:10:18.862+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: marketing_campaign_etl.aggregate_gold manual__2026-07-09T19:10:06.206657+00:00 [queued]>
+[2026-07-09T19:10:18.872+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: marketing_campaign_etl.aggregate_gold manual__2026-07-09T19:10:06.206657+00:00 [queued]>
+[2026-07-09T19:10:18.872+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 3
+[2026-07-09T19:10:18.887+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): aggregate_gold> on 2026-07-09 19:10:06.206657+00:00
+[2026-07-09T19:10:18.896+0000] {standard_task_runner.py:60} INFO - Started process 1532 to run task
+[2026-07-09T19:10:18.900+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'marketing_campaign_etl', 'aggregate_gold', 'manual__2026-07-09T19:10:06.206657+00:00', '--job-id', '50', '--raw', '--subdir', 'DAGS_FOLDER/marketing_campaign_dag.py', '--cfg-path', '/tmp/tmpmo03e_lw']
+[2026-07-09T19:10:18.903+0000] {standard_task_runner.py:88} INFO - Job 50: Subtask aggregate_gold
+[2026-07-09T19:10:18.971+0000] {task_command.py:423} INFO - Running <TaskInstance: marketing_campaign_etl.aggregate_gold manual__2026-07-09T19:10:06.206657+00:00 [running]> on host 4680c3384e94
+[2026-07-09T19:10:19.379+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data-engineering' AIRFLOW_CTX_DAG_ID='marketing_campaign_etl' AIRFLOW_CTX_TASK_ID='aggregate_gold' AIRFLOW_CTX_EXECUTION_DATE='2026-07-09T19:10:06.206657+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-07-09T19:10:06.206657+00:00'
+[2026-07-09T19:10:20.955+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/gold/2026-07-09 19:10/kpis_campagnes.parquet (15 lignes)
+[2026-07-09T19:10:20.978+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/gold/2026-07-09 19:10/resume_global.parquet (1 lignes)
+[2026-07-09T19:10:21.002+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/gold/latest/kpis_campagnes.parquet (15 lignes)
+[2026-07-09T19:10:21.021+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/gold/latest/resume_global.parquet (1 lignes)
+[2026-07-09T19:10:21.022+0000] {logging_mixin.py:188} INFO - Agrégation gold terminée pour la date 2026-07-09 19:10
+[2026-07-09T19:10:21.035+0000] {logging_mixin.py:188} INFO -    campaign_id plateforme     ctr  taux_conversion     cpa    roi
+0      CMP0001     TikTok  0.0345           0.0033   61.06  1.502
+1      CMP0002   Facebook  0.0192           0.0081   31.28  4.164
+2      CMP0003     Google  0.0478           0.0096   54.90  1.836
+3      CMP0004    twitter  0.0510           0.0039  147.81 -0.002
+4      CMP0005     TikTok  0.0279           0.0055  119.91  0.195
+5      CMP0006     Google  0.0372           0.0110   44.46  2.332
+6      CMP0007   LinkedIn  0.0221           0.0240   50.99  1.771
+7      CMP0008     Google  0.0491           0.0527  144.49  0.165
+8      CMP0009    YouTube  0.0172           0.0187   34.24  3.465
+9      CMP0010   LinkedIn  0.0174           0.0087   68.15  1.073
+10     CMP0011    twitter  0.0301           0.0328  121.85  0.385
+11     CMP0012   Facebook  0.0171           0.0930  159.22  0.120
+12     CMP0013   LinkedIn  0.0161           0.0144  112.58  0.402
+13     CMP0014  Instagram  0.0106           0.0117   72.63  1.032
+14     CMP0015   LinkedIn  0.0072           0.0231   24.41  4.856
+[2026-07-09T19:10:21.036+0000] {python.py:202} INFO - Done. Returned value was: None
+[2026-07-09T19:10:21.064+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=marketing_campaign_etl, task_id=aggregate_gold, execution_date=20260709T191006, start_date=20260709T191018, end_date=20260709T191021
+[2026-07-09T19:10:21.118+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-07-09T19:10:21.150+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,16 @@
+campaign_id,nom_campagne,plateforme,date_diffusion,budget_alloue,devise,impressions,clics,objectif
+CMP0001,TikTok_éviter_202606,TikTok,2026-06-11,1221.15,EUR,174159,6003,engagement
+CMP0002,Facebook_atteindre_202607,Facebook,2026-07-03,719.45,EUR,147821,2833,conversion
+CMP0003,Google_besoin_202606,Google,2026-06-27,1537.13,EUR,61286,2927,engagement
+CMP0004,twitter_gloire_202606,twitter,2026-06-14,4877.82,EUR,164981,8412,notoriete
+CMP0005,TikTok_traîner_202607,TikTok,2026-07-08,3357.59,EUR,183789,5126,conversion
+CMP0006,Google_affaire_202605,Google,2026-05-21,1511.7,EUR,82998,3086,conversion
+CMP0007,LinkedIn_chaîne_202605,LinkedIn,2026-05-10,1070.75,EUR,39552,874,engagement
+CMP0008,Google_compagnie_202605,Google,2026-05-19,3756.65,EUR,10036,493,notoriete
+CMP0009,YouTube_semblable_202606,YouTube,2026-06-12,1232.64,EUR,112056,1925,engagement
+CMP0010,LinkedIn_durant_202605,LinkedIn,2026-05-20,1976.25,EUR,191162,3334,conversion
+CMP0011,twitter_saint_202607,twitter,2026-07-09,2924.45,EUR,24270,731,notoriete
+CMP0012,Facebook_doux_202605,Facebook,2026-05-20,3821.29,EUR,15044,258,notoriete
+CMP0013,LinkedIn_dieu_202606,LinkedIn,2026-06-07,3377.31,EUR,129313,2080,engagement
+CMP0014,Instagram_travailler_202605,Instagram,2026-05-27,1234.73,EUR,136308,1451,notoriete
+CMP0015,LinkedIn_large_202606,LinkedIn,2026-06-06,732.27,EUR,179790,1301,engagement

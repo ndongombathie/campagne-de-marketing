@@ -1,0 +1,17 @@
+[2026-07-09T18:45:16.121+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: marketing_campaign_etl.ingest_bronze manual__2026-07-09T18:45:10.781203+00:00 [queued]>
+[2026-07-09T18:45:16.135+0000] {taskinstance.py:1979} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: marketing_campaign_etl.ingest_bronze manual__2026-07-09T18:45:10.781203+00:00 [queued]>
+[2026-07-09T18:45:16.136+0000] {taskinstance.py:2193} INFO - Starting attempt 1 of 3
+[2026-07-09T18:45:16.154+0000] {taskinstance.py:2217} INFO - Executing <Task(PythonOperator): ingest_bronze> on 2026-07-09 18:45:10.781203+00:00
+[2026-07-09T18:45:16.165+0000] {standard_task_runner.py:60} INFO - Started process 974 to run task
+[2026-07-09T18:45:16.170+0000] {standard_task_runner.py:87} INFO - Running: ['***', 'tasks', 'run', 'marketing_campaign_etl', 'ingest_bronze', 'manual__2026-07-09T18:45:10.781203+00:00', '--job-id', '28', '--raw', '--subdir', 'DAGS_FOLDER/marketing_campaign_dag.py', '--cfg-path', '/tmp/tmp8jgpcyot']
+[2026-07-09T18:45:16.173+0000] {standard_task_runner.py:88} INFO - Job 28: Subtask ingest_bronze
+[2026-07-09T18:45:16.251+0000] {task_command.py:423} INFO - Running <TaskInstance: marketing_campaign_etl.ingest_bronze manual__2026-07-09T18:45:10.781203+00:00 [running]> on host 4680c3384e94
+[2026-07-09T18:45:16.688+0000] {taskinstance.py:2513} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='data-engineering' AIRFLOW_CTX_DAG_ID='marketing_campaign_etl' AIRFLOW_CTX_TASK_ID='ingest_bronze' AIRFLOW_CTX_EXECUTION_DATE='2026-07-09T18:45:10.781203+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2026-07-09T18:45:10.781203+00:00'
+[2026-07-09T18:45:17.861+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/bronze/2026-07-09/crm.csv (500 lignes)
+[2026-07-09T18:45:17.887+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/bronze/2026-07-09/publicite.csv (15 lignes)
+[2026-07-09T18:45:17.978+0000] {logging_mixin.py:188} INFO - Uploadé -> s3://marketing-data/bronze/2026-07-09/web_logs.csv (5000 lignes)
+[2026-07-09T18:45:17.979+0000] {logging_mixin.py:188} INFO - Ingestion bronze terminée pour la date 2026-07-09
+[2026-07-09T18:45:17.980+0000] {python.py:202} INFO - Done. Returned value was: None
+[2026-07-09T18:45:17.999+0000] {taskinstance.py:1149} INFO - Marking task as SUCCESS. dag_id=marketing_campaign_etl, task_id=ingest_bronze, execution_date=20260709T184510, start_date=20260709T184516, end_date=20260709T184517
+[2026-07-09T18:45:18.068+0000] {local_task_job_runner.py:234} INFO - Task exited with return code 0
+[2026-07-09T18:45:18.115+0000] {taskinstance.py:3312} INFO - 1 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,10 @@
+faker
+pandas
+numpy
+pyarrow
+boto3
+s3fs
+streamlit
+plotly
+apache-airflow
+apache-airflow-providers-amazon
