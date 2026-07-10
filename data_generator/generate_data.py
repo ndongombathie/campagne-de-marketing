@@ -24,6 +24,19 @@ PAGES = [
     "/confirmation-commande", "/blog", "/contact", "/a-propos", "/promo",
 ]
 
+CAMPAGNE = [
+    "Promo Ramadan",
+    "Soldes Été",
+    "Back to School",
+    "Black Friday",
+    "Promo de noel",
+    "Nouvelle Collection",
+    "Fête de Tabaski",
+    "Promo Magal touba",
+    "Promo Gamou",
+    "Fête de Koritè"
+]
+
 DEVICES = ["mobile", "desktop", "tablette"]
 SEGMENTS = ["prospect", "client_actif", "client_inactif", "vip"]
 STATUTS_INTERACTION = [
@@ -47,14 +60,13 @@ def generate_campaigns(n_campaigns: int, start_date: datetime, days_span: int) -
         clics = max(clics, 1)
         rows.append({
             "campaign_id": campaign_id,
-            "nom_campagne": f"{plateforme.split()[0]}_{fake.word()}_{date_diffusion.strftime('%Y%m')}",
+            "nom_campagne": random.choice(CAMPAGNE),
             "plateforme": plateforme,
             "date_diffusion": date_diffusion.date().isoformat(),
             "budget_alloue": budget_alloue,
             "devise": "CFA",
             "impressions": impressions,
-            "clics": clics,
-            "objectif": random.choice(["notoriete", "trafic", "conversion", "engagement"]),
+            "clics": clics
         })
     return pd.DataFrame(rows)
 
@@ -73,7 +85,6 @@ def generate_crm(n_clients: int) -> pd.DataFrame:
             "telephone": fake.phone_number(),
             "ville": fake.city(),
             "date_inscription": fake.date_between(start_date="-3y", end_date="today").isoformat(),
-            "segment": random.choice(SEGMENTS),
             "historique_interactions": random.choice(STATUTS_INTERACTION),
         })
     return pd.DataFrame(rows)
@@ -92,11 +103,11 @@ def generate_web_logs(n_sessions: int, crm_df: pd.DataFrame, ads_df: pd.DataFram
             hours=random.randint(0, 23),
             minutes=random.randint(0, 59),
         )
-        # 60% des sessions viennent d'une campagne publicitaire, 40% sont "organiques"
+       
         campaign_id = random.choice(campaign_ids) if random.random() < 0.6 else None
-        # 55% des visiteurs sont identifiés (déjà dans le CRM), le reste anonyme
+        
         user_id = random.choice(client_ids) if random.random() < 0.55 else f"ANON{uuid.uuid4().hex[:8]}"
-
+        
         page =f"www.jumia{random.choice(PAGES)}.com"
         duree_visite = max(1, int(np.random.exponential(scale=90)))  # secondes
         # une conversion (achat) est plus probable si la page = checkout/confirmation
@@ -111,7 +122,6 @@ def generate_web_logs(n_sessions: int, crm_df: pd.DataFrame, ads_df: pd.DataFram
             "duree_visite_sec": duree_visite,
             "device": random.choice(DEVICES),
             "campaign_id": campaign_id,
-            "source": "ads" if campaign_id else "organique",
             "converted": converted,
             "valeur_conversion": valeur_conversion,
         })

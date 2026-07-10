@@ -52,13 +52,12 @@ def _notify_success(**context):
 
 
 with DAG(
-    dag_id="marketing_campaign_etl",
+    dag_id="campagne_marketing",
     description="Pipeline ETL : logs web + CRM + ads -> KPIs campagnes marketing",
     default_args=default_args,
-    schedule_interval="1 * * * *",  
+    schedule_interval="*/1 * * * *",  
     start_date=datetime(2026, 1, 1),
     catchup=False,
-    tags=["marketing", "etl", "projet3"],
 ) as dag:
 
     generate_data = PythonOperator(

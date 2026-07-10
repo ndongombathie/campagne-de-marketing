@@ -49,7 +49,7 @@ df = kpis if plateforme_choisie == "Toutes" else kpis[kpis["plateforme"] == plat
 # ---------- KPIs globaux ----------
 st.subheader("Vue d'ensemble")
 c1, c2, c3, c4, c5 = st.columns(5)
-c1.metric("Budget total", f"{df['budget_alloue'].sum():,.0f} €")
+c1.metric("Budget total", f"{df['budget_alloue'].sum():,.0f} CFA")
 c2.metric("Impressions", f"{df['impressions'].sum():,.0f}")
 c3.metric("Clics", f"{df['clics'].sum():,.0f}")
 c4.metric("Conversions", f"{int(df['conversions'].sum()):,}")
@@ -76,7 +76,7 @@ with col2:
     fig_cpa = px.bar(
         df.sort_values("cpa"),
         x="campaign_id", y="cpa", color="plateforme",
-        labels={"cpa": "CPA (€)", "campaign_id": "Campagne"},
+        labels={"cpa": "CPA (CFA)", "campaign_id": "Campagne"},
     )
     st.plotly_chart(fig_cpa, use_container_width=True)
 
@@ -99,7 +99,7 @@ with col4:
     )
     fig_budget = px.bar(
         df_melt, x="campaign_id", y="montant", color="type", barmode="group",
-        labels={"montant": "Montant (€)", "campaign_id": "Campagne"},
+        labels={"montant": "Montant (CFA)", "campaign_id": "Campagne"},
     )
     st.plotly_chart(fig_budget, use_container_width=True)
 

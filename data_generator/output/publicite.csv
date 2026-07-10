@@ -1,16 +1,16 @@
-campaign_id,nom_campagne,plateforme,date_diffusion,budget_alloue,devise,impressions,clics,objectif
-CMP0001,TikTok_éviter_202606,TikTok,2026-06-11,1221.15,EUR,174159,6003,engagement
-CMP0002,Facebook_atteindre_202607,Facebook,2026-07-03,719.45,EUR,147821,2833,conversion
-CMP0003,Google_besoin_202606,Google,2026-06-27,1537.13,EUR,61286,2927,engagement
-CMP0004,twitter_gloire_202606,twitter,2026-06-14,4877.82,EUR,164981,8412,notoriete
-CMP0005,TikTok_traîner_202607,TikTok,2026-07-08,3357.59,EUR,183789,5126,conversion
-CMP0006,Google_affaire_202605,Google,2026-05-21,1511.7,EUR,82998,3086,conversion
-CMP0007,LinkedIn_chaîne_202605,LinkedIn,2026-05-10,1070.75,EUR,39552,874,engagement
-CMP0008,Google_compagnie_202605,Google,2026-05-19,3756.65,EUR,10036,493,notoriete
-CMP0009,YouTube_semblable_202606,YouTube,2026-06-12,1232.64,EUR,112056,1925,engagement
-CMP0010,LinkedIn_durant_202605,LinkedIn,2026-05-20,1976.25,EUR,191162,3334,conversion
-CMP0011,twitter_saint_202607,twitter,2026-07-09,2924.45,EUR,24270,731,notoriete
-CMP0012,Facebook_doux_202605,Facebook,2026-05-20,3821.29,EUR,15044,258,notoriete
-CMP0013,LinkedIn_dieu_202606,LinkedIn,2026-06-07,3377.31,EUR,129313,2080,engagement
-CMP0014,Instagram_travailler_202605,Instagram,2026-05-27,1234.73,EUR,136308,1451,notoriete
-CMP0015,LinkedIn_large_202606,LinkedIn,2026-06-06,732.27,EUR,179790,1301,engagement
+campaign_id,nom_campagne,plateforme,date_diffusion,budget_alloue,devise,impressions,clics
+CMP0001,Promo Ramadan,TikTok,2026-06-24,4424.52,CFA,147697,5091
+CMP0002,Fête de Tabaski,TikTok,2026-07-10,1117.07,CFA,65270,1876
+CMP0003,Promo Magal touba,Instagram,2026-06-15,3839.19,CFA,183039,5465
+CMP0004,Soldes Été,YouTube,2026-06-25,2555.94,CFA,6520,189
+CMP0005,Promo de noel,LinkedIn,2026-05-25,2141.13,CFA,65780,917
+CMP0006,Promo Gamou,YouTube,2026-06-17,1971.3,CFA,147089,2735
+CMP0007,Nouvelle Collection,LinkedIn,2026-06-07,4983.83,CFA,146281,3233
+CMP0008,Promo de noel,LinkedIn,2026-06-24,2377.98,CFA,82379,1520
+CMP0009,Soldes Été,Facebook,2026-05-18,3662.16,CFA,84719,1455
+CMP0010,Back to School,YouTube,2026-06-14,4764.21,CFA,182922,4253
+CMP0011,Fête de Koritè,Facebook,2026-05-24,3745.3,CFA,74482,1282
+CMP0012,Black Friday,twitter,2026-06-13,3064.6,CFA,28352,853
+CMP0013,Promo Ramadan,LinkedIn,2026-05-25,1932.23,CFA,81237,1307
+CMP0014,Promo Ramadan,YouTube,2026-06-14,807.6,CFA,13931,118
+CMP0015,Promo Magal touba,TikTok,2026-05-29,3547.6,CFA,35103,508
