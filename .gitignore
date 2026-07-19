@@ -1,6 +1,4 @@
 env
-logs
+logs/
 .marscode
-data_generator/output/crm.csv
-data_generator/output/publicite.csv
-data_generator/output/web_logs.csv
+data_generator/output/
