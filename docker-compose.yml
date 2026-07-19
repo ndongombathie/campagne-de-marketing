@@ -9,13 +9,13 @@ x-airflow-common: &airflow-common
   environment:
     HOME: /home/airflow
     AIRFLOW__CORE__EXECUTOR: LocalExecutor
-    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres/airflow
+    AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://${POSTGRES_USER:-airflow}:${POSTGRES_PASSWORD:-airflow}@postgres/${POSTGRES_DB:-airflow}
     AIRFLOW__CORE__LOAD_EXAMPLES: "false"
     AIRFLOW__WEBSERVER__EXPOSE_CONFIG: "true"
     MINIO_ENDPOINT: http://minio:9000
-    MINIO_ACCESS_KEY: admin
-    MINIO_SECRET_KEY: password
-    MINIO_BUCKET: marketing-data
+    MINIO_ACCESS_KEY: ${MINIO_ACCESS_KEY:-admin}
+    MINIO_SECRET_KEY: ${MINIO_PASSWORD:-password}
+    MINIO_BUCKET: ${MINIO_BUCKET:-marketing-data}
   volumes:
     - ./dags:/opt/airflow/dags
     - ./etl:/opt/airflow/etl
@@ -32,13 +32,15 @@ services:
   postgres:
     image: postgres:16
     environment:
-      POSTGRES_USER: airflow
-      POSTGRES_PASSWORD: airflow
-      POSTGRES_DB: airflow
+      POSTGRES_USER: ${POSTGRES_USER:-airflow}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-airflow}
+      POSTGRES_DB: ${POSTGRES_DB:-airflow}
     volumes:
       - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
     healthcheck:
-      test: ["CMD", "pg_isready", "-U", "airflow"]
+      test: ["CMD", "pg_isready", "-U", "${POSTGRES_USER:-airflow}"]
       interval: 5s
       retries: 5
 
@@ -49,8 +51,8 @@ services:
       - "9000:9000"   # API S3
       - "9001:9001"   # console web MinIO
     environment:
-      MINIO_ROOT_USER: admin
-      MINIO_ROOT_PASSWORD: password
+      MINIO_ROOT_USER: ${MINIO_ACCESS_KEY:-admin}
+      MINIO_ROOT_PASSWORD: ${MINIO_PASSWORD:-password}
     volumes:
       - minio_data:/data
     healthcheck:
@@ -89,8 +91,8 @@ services:
       - "8501:8501"
     environment:
       MINIO_ENDPOINT: http://minio:9000
-      MINIO_ACCESS_KEY: admin
-      MINIO_SECRET_KEY: password
+      MINIO_ACCESS_KEY: ${MINIO_ACCESS_KEY:-admin}
+      MINIO_SECRET_KEY: ${MINIO_PASSWORD:-password}
       MINIO_BUCKET: marketing-data
     volumes:
       - ./dashboard:/app/dashboard

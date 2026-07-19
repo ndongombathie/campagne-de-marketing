@@ -1,501 +1,501 @@
 client_id,prenom,nom,email,telephone,ville,date_inscription,historique_interactions
-CLI00001,Lucie,Marie,lucie.marie655@voila.fr,0382321819,DavidVille,2023-10-26,email ouvert
-CLI00002,Nicolas,Bodin,nicolas.bodin26@voila.fr,+33 5 61 37 94 02,Leblanc-la-Forêt,2024-01-02,aucune interaction récente
-CLI00003,Paulette,Marques,paulette.marques282@yahoo.fr,+33 (0)5 19 15 59 40,RegnierBourg,2026-06-16,email cliqué
-CLI00004,Alexandria,Chevalier,alexandria.chevalier229@club-internet.fr,0352103413,Sainte Rogerdan,2025-06-11,email cliqué
-CLI00005,Aimée,Goncalves,aimée.goncalves755@live.com,0361419283,Pinto,2024-09-03,email ouvert
-CLI00006,Lucie,Lagarde,lucie.lagarde693@orange.fr,0179305641,Duhamel,2026-03-02,aucune interaction récente
-CLI00007,Thomas,Lecomte,thomas.lecomte914@tiscali.fr,06 33 24 23 88,Letellier,2025-04-16,réclamation
-CLI00008,Isabelle,Alexandre,isabelle.alexandre90@live.com,+33 2 62 87 10 12,Bazin,2024-10-20,réclamation
-CLI00009,Christophe,Collin,christophe.collin433@ifrance.com,03 85 80 18 45,Sainte Bernadette-les-Bains,2024-11-24,email ouvert
-CLI00010,Michelle,Fouquet,michelle.fouquet31@bouygtel.fr,+33 2 44 48 93 25,Gimenez,2026-05-26,email ouvert
-CLI00011,Éléonore,Martin,éléonore.martin224@dbmail.com,01 46 15 43 03,Chevalier-sur-Clément,2025-09-25,email cliqué
-CLI00012,Sylvie,Muller,sylvie.muller518@laposte.net,+33 6 78 24 89 63,Faivre-sur-Mer,2025-09-04,réclamation
-CLI00013,Andrée,Leconte,andrée.leconte28@live.com,06 30 13 31 50,Lenoir-sur-Rolland,2025-04-20,réclamation
-CLI00014,Aimé,Guérin,aimé.guérin204@gmail.com,+33 2 14 05 18 34,Benoit-les-Bains,2025-09-15,aucune interaction récente
-CLI00015,Henriette,Verdier,henriette.verdier666@tiscali.fr,+33 6 66 31 16 56,BigotVille,2025-07-23,aucune interaction récente
-CLI00016,Madeleine,Perrin,madeleine.perrin559@gmail.com,04 82 13 33 87,Briand,2024-02-02,demande de devis
-CLI00017,Célina,Menard,célina.menard226@hotmail.fr,02 38 08 01 32,Valléedan,2024-03-06,demande de devis
-CLI00018,Andrée,Lopez,andrée.lopez604@free.fr,01 34 64 74 68,Meyer-sur-Mer,2024-06-05,appel commercial
-CLI00019,Bertrand,Delorme,bertrand.delorme829@gmail.com,0180097882,Saint Claude,2024-02-04,email ouvert
-CLI00020,Jeannine,Mercier,jeannine.mercier778@orange.fr,02 51 93 99 09,Sainte Margauxboeuf,2026-05-05,email cliqué
-CLI00021,Lucas,Laroche,lucas.laroche715@dbmail.com,+33 4 13 62 47 51,Sainte Laurence,2026-07-14,demande de devis
-CLI00022,Eugène,Legrand,eugène.legrand349@sfr.fr,0257513542,Devaux-la-Forêt,2025-05-16,appel commercial
-CLI00023,Susan,Guibert,susan.guibert160@wanadoo.fr,+33 (0)4 57 12 41 18,Maillard,2024-05-19,email cliqué
-CLI00024,Marc,Wagner,marc.wagner981@dbmail.com,+33 4 13 87 40 16,Bertrand,2023-07-19,appel commercial
-CLI00025,Pénélope,Dumont,pénélope.dumont105@bouygtel.fr,+33 5 94 86 80 11,Morvan,2023-08-24,email ouvert
-CLI00026,Alexandrie,Guillon,alexandrie.guillon390@laposte.net,02 55 04 50 53,Martineau,2023-11-05,email ouvert
-CLI00027,Renée,Vaillant,renée.vaillant368@noos.fr,+33 3 76 22 60 25,Laroche-sur-Mer,2024-05-03,appel commercial
-CLI00028,Simone,Boutin,simone.boutin619@yahoo.fr,01 69 73 37 54,Hubert,2023-08-10,appel commercial
-CLI00029,Léon,Alexandre,léon.alexandre827@dbmail.com,0218458685,Saint Raymond,2024-01-27,email ouvert
-CLI00030,Rémy,Morel,rémy.morel748@yahoo.fr,04 85 56 98 16,Aubert-sur-Adam,2023-09-02,demande de devis
-CLI00031,Bernadette,Martin,bernadette.martin550@wanadoo.fr,+33 4 95 61 59 51,Guillou,2024-06-18,email ouvert
-CLI00032,Anouk,Millet,anouk.millet997@ifrance.com,0255366299,Lebon,2025-03-07,demande de devis
-CLI00033,Adrien,Bailly,adrien.bailly81@club-internet.fr,+33 5 79 99 57 77,Gros,2024-12-15,réclamation
-CLI00034,Stéphanie,Guyon,stéphanie.guyon301@free.fr,+33 (0)4 37 89 51 34,Philippe,2023-12-24,aucune interaction récente
-CLI00035,Benjamin,Moulin,benjamin.moulin634@tiscali.fr,+33 (0)6 32 69 36 76,Caron,2025-07-04,appel commercial
-CLI00036,Aimé,Hamel,aimé.hamel592@yahoo.fr,03 66 28 70 83,Sainte Grégoiredan,2025-07-16,email cliqué
-CLI00037,Gabrielle,Valentin,gabrielle.valentin722@dbmail.com,05 65 87 27 74,Diaz,2024-05-14,email ouvert
-CLI00038,Renée,Dijoux,renée.dijoux47@tiscali.fr,+33 4 26 71 43 45,Gimenez,2023-10-12,aucune interaction récente
-CLI00039,Henri,Grondin,henri.grondin234@ifrance.com,+33 3 63 16 65 87,Bonnet-sur-Mer,2026-01-13,appel commercial
-CLI00040,Amélie,Pires,amélie.pires82@voila.fr,06 80 54 66 88,Vasseur-sur-Coulon,2024-03-12,email cliqué
-CLI00041,Bernadette,Vallée,bernadette.vallée888@voila.fr,04 81 62 72 98,Sainte Jeanne,2025-03-25,email ouvert
-CLI00042,André,Perez,andré.perez390@noos.fr,+33 6 35 20 46 53,Milletboeuf,2025-10-27,appel commercial
-CLI00043,Alex,Lopes,alex.lopes465@noos.fr,0229708053,Saint OlivieVille,2026-05-21,aucune interaction récente
-CLI00044,Luc,Lefebvre,luc.lefebvre855@laposte.net,+33 2 54 71 93 74,Brun,2025-05-10,appel commercial
-CLI00045,Océane,Wagner,océane.wagner167@yahoo.fr,+33 4 68 19 04 96,Auger-sur-Mer,2023-10-07,appel commercial
-CLI00046,Marie,Techer,marie.techer364@orange.fr,+33 (0)4 58 91 90 58,Peltierboeuf,2023-09-29,email cliqué
-CLI00047,Madeleine,Leblanc,madeleine.leblanc687@voila.fr,07 51 65 72 62,Gilles-la-Forêt,2025-05-21,appel commercial
-CLI00048,Élise,Becker,élise.becker719@tiscali.fr,05 86 94 53 14,Bergerdan,2025-03-31,aucune interaction récente
-CLI00049,Marguerite,Gillet,marguerite.gillet664@dbmail.com,+33 (0)7 85 27 35 45,Godard,2025-08-22,email ouvert
-CLI00050,Robert,Berthelot,robert.berthelot624@voila.fr,+33 2 31 36 78 37,PonsVille,2023-10-25,aucune interaction récente
-CLI00051,Matthieu,Lebon,matthieu.lebon176@orange.fr,0498788568,Benard,2025-08-24,réclamation
-CLI00052,Richard,Schneider,richard.schneider747@bouygtel.fr,+33 2 51 35 18 23,Rousset,2024-12-27,email cliqué
-CLI00053,Monique,Pruvost,monique.pruvost168@wanadoo.fr,0240343524,Saint Robert,2023-09-03,demande de devis
-CLI00054,Bernard,Lenoir,bernard.lenoir389@club-internet.fr,+33 7 61 09 47 77,Gonzalez,2026-06-08,appel commercial
-CLI00055,Philippe,Martel,philippe.martel948@yahoo.fr,+33 (0)5 47 71 90 22,Bailly-sur-Clément,2026-07-09,aucune interaction récente
-CLI00056,Georges,Pascal,georges.pascal705@noos.fr,+33 5 19 77 49 64,Legendre-sur-Lopez,2025-05-14,réclamation
-CLI00057,Nicole,Perrin,nicole.perrin225@sfr.fr,+33 4 13 12 32 81,Bernard,2024-10-05,aucune interaction récente
-CLI00058,Marie,Valentin,marie.valentin333@tiscali.fr,0158344713,Toussaint,2025-04-22,email ouvert
-CLI00059,Suzanne,Philippe,suzanne.philippe235@noos.fr,+33 (0)3 69 24 21 02,Valentin,2025-10-13,email ouvert
-CLI00060,Hélène,Hervé,hélène.hervé825@tele2.fr,+33 (0)6 38 46 48 87,FaureVille,2026-03-16,appel commercial
-CLI00061,Nathalie,Breton,nathalie.breton411@bouygtel.fr,+33 (0)2 34 39 90 49,Saint Charlotte,2025-02-03,appel commercial
-CLI00062,Capucine,Lopes,capucine.lopes68@free.fr,07 61 75 65 51,Boulanger,2024-10-09,email cliqué
-CLI00063,Clémence,Hervé,clémence.hervé936@ifrance.com,+33 (0)6 31 15 45 16,Martindan,2024-10-10,réclamation
-CLI00064,Laurent,Paul,laurent.paul898@live.com,05 94 03 48 24,Rocherdan,2023-11-26,aucune interaction récente
-CLI00065,Louise,Raynaud,louise.raynaud323@orange.fr,+33 4 68 80 86 13,Sainte Georges-les-Bains,2025-01-12,email cliqué
-CLI00066,Michelle,Klein,michelle.klein672@wanadoo.fr,0558773782,Aubert-les-Bains,2026-02-16,demande de devis
-CLI00067,Robert,Leleu,robert.leleu406@noos.fr,0415044997,Cohen,2025-02-25,aucune interaction récente
-CLI00068,Adélaïde,Le Roux,adélaïde.le roux470@ifrance.com,04 73 33 96 36,Sainte Noémi,2024-12-15,email cliqué
-CLI00069,Suzanne,Weber,suzanne.weber272@ifrance.com,+33 7 80 28 95 17,Sainte Alexandre-les-Bains,2024-10-07,email cliqué
-CLI00070,Marcelle,Meyer,marcelle.meyer253@hotmail.fr,04 13 59 61 58,Prévostdan,2026-02-26,aucune interaction récente
-CLI00071,Auguste,Maurice,auguste.maurice575@hotmail.fr,+33 4 42 31 61 17,Lemonnier,2024-06-08,réclamation
-CLI00072,Antoine,Lambert,antoine.lambert270@dbmail.com,+33 (0)4 49 55 62 38,Moreno-les-Bains,2024-01-18,aucune interaction récente
-CLI00073,Édouard,Bourdon,édouard.bourdon599@ifrance.com,+33 7 99 23 74 74,Sainte Sébastien,2025-07-27,demande de devis
-CLI00074,Hugues,Legrand,hugues.legrand920@tele2.fr,0457647436,Gautier-sur-Mer,2024-09-05,réclamation
-CLI00075,Agathe,Bruneau,agathe.bruneau409@club-internet.fr,0148640909,Renault-sur-Mer,2025-05-11,appel commercial
-CLI00076,Adrienne,Vasseur,adrienne.vasseur225@sfr.fr,0262104709,Foucher,2023-12-07,email cliqué
-CLI00077,Théodore,Millet,théodore.millet522@noos.fr,+33 3 56 28 58 84,Boucher,2026-04-12,demande de devis
-CLI00078,Christine,Collet,christine.collet94@dbmail.com,+33 (0)6 38 12 36 85,Sainte Alexandre-la-Forêt,2025-02-23,email ouvert
-CLI00079,Cécile,Tessier,cécile.tessier882@bouygtel.fr,05 08 13 70 98,Bourdon,2024-03-14,email ouvert
-CLI00080,Christophe,Bousquet,christophe.bousquet157@tele2.fr,0555120047,Saint Noël-les-Bains,2024-09-13,aucune interaction récente
-CLI00081,Alexandrie,Leconte,alexandrie.leconte164@noos.fr,+33 5 58 17 96 40,Carpentier,2024-11-12,aucune interaction récente
-CLI00082,Noël,Étienne,noël.étienne433@yahoo.fr,0492064317,Saint LucyVille,2023-09-09,réclamation
-CLI00083,Xavier,Berger,xavier.berger66@laposte.net,+33 2 18 83 93 35,Godard,2023-07-19,demande de devis
-CLI00084,William,Dumont,william.dumont391@bouygtel.fr,+33 2 46 02 05 39,Durand,2024-01-22,réclamation
-CLI00085,Bernard,Marchand,bernard.marchand480@noos.fr,+33 (0)1 83 77 58 91,Gaudin-sur-Mer,2026-05-17,réclamation
-CLI00086,Benjamin,Petitjean,benjamin.petitjean258@wanadoo.fr,0633007661,Mendèsdan,2023-10-04,réclamation
-CLI00087,Édouard,Lebrun,édouard.lebrun882@laposte.net,+33 (0)2 54 49 98 56,Laporte-sur-Cousin,2024-11-24,email ouvert
-CLI00088,Josette,Perret,josette.perret697@yahoo.fr,+33 (0)3 64 67 36 57,LegrosBourg,2024-06-22,aucune interaction récente
-CLI00089,Thomas,Chartier,thomas.chartier118@bouygtel.fr,0290711116,Sainte Suzanne-les-Bains,2025-03-16,aucune interaction récente
-CLI00090,Jacqueline,Guilbert,jacqueline.guilbert907@dbmail.com,+33 (0)5 56 56 04 94,Duval,2025-04-09,réclamation
-CLI00091,Marcel,Meyer,marcel.meyer769@tiscali.fr,+33 2 45 58 51 49,Gilbert,2026-01-27,appel commercial
-CLI00092,Pauline,Loiseau,pauline.loiseau788@voila.fr,0155244550,Meunier,2025-03-27,aucune interaction récente
-CLI00093,Andrée,Muller,andrée.muller349@laposte.net,+33 (0)2 34 83 66 75,Lemaître,2024-06-21,email ouvert
-CLI00094,Victor,Diallo,victor.diallo301@hotmail.fr,+33 (0)2 96 29 01 47,Valléedan,2024-10-11,demande de devis
-CLI00095,Martin,Faivre,martin.faivre162@wanadoo.fr,+33 (0)4 85 61 49 78,Lambert,2024-03-13,demande de devis
-CLI00096,Joséphine,Lefèvre,joséphine.lefèvre4@voila.fr,+33 4 58 32 44 51,Sainte Océane,2024-10-29,aucune interaction récente
-CLI00097,Gilles,Gillet,gilles.gillet897@orange.fr,0219606071,Bruneau,2024-10-28,aucune interaction récente
-CLI00098,Anne,Lacombe,anne.lacombe270@noos.fr,0248605297,Blanc,2024-11-05,réclamation
-CLI00099,Franck,Berger,franck.berger781@noos.fr,02 28 64 53 52,Saint Éléonore-sur-Mer,2026-04-03,email cliqué
-CLI00100,Adèle,Marty,adèle.marty520@laposte.net,+33 2 41 24 32 92,Saint Pénélopedan,2024-12-05,email ouvert
-CLI00101,Geneviève,Samson,geneviève.samson892@tele2.fr,0470271774,Maury,2023-09-15,aucune interaction récente
-CLI00102,Corinne,Legrand,corinne.legrand306@club-internet.fr,06 30 00 54 11,Valentin-sur-Guillou,2024-09-09,aucune interaction récente
-CLI00103,Inès,Lenoir,inès.lenoir520@gmail.com,03 45 59 78 20,Henryboeuf,2026-06-26,réclamation
-CLI00104,Émile,Bodin,émile.bodin204@free.fr,+33 (0)3 83 77 88 92,Guichard,2026-04-17,email cliqué
-CLI00105,Amélie,Lejeune,amélie.lejeune383@dbmail.com,+33 (0)4 80 15 18 64,Ramos,2026-02-03,email cliqué
-CLI00106,Josette,Gérard,josette.gérard553@dbmail.com,+33 (0)2 72 54 62 91,Vaillant,2024-08-31,réclamation
-CLI00107,Sophie,Boulanger,sophie.boulanger941@laposte.net,+33 (0)5 63 85 05 42,Leblanc,2026-05-19,email ouvert
-CLI00108,Claire,Olivier,claire.olivier614@orange.fr,+33 2 96 14 18 88,Sainte Pauline,2025-05-23,appel commercial
-CLI00109,Jeannine,Mallet,jeannine.mallet501@laposte.net,+33 3 28 92 70 65,Hebert,2025-05-15,email ouvert
-CLI00110,Odette,Bouvet,odette.bouvet115@tele2.fr,+33 3 79 47 35 97,Lecoq-la-Forêt,2025-11-14,appel commercial
-CLI00111,Constance,Evrard,constance.evrard900@noos.fr,+33 3 56 92 40 75,HenryBourg,2024-05-23,appel commercial
-CLI00112,Paulette,Renard,paulette.renard246@bouygtel.fr,02 78 61 37 50,Vincentnec,2025-01-16,email ouvert
-CLI00113,Noël,Collin,noël.collin247@hotmail.fr,0368051522,Sainte Véronique,2024-12-14,réclamation
-CLI00114,Véronique,Joly,véronique.joly970@tiscali.fr,01 39 10 43 28,Evrard-sur-Briand,2023-11-14,email ouvert
-CLI00115,Sébastien,Gomez,sébastien.gomez88@club-internet.fr,+33 (0)1 75 36 97 11,GodardVille,2025-06-07,aucune interaction récente
-CLI00116,Hortense,Guillot,hortense.guillot498@laposte.net,0567095396,Chartier,2025-07-17,email ouvert
-CLI00117,Édith,Alves,édith.alves779@hotmail.fr,+33 (0)5 34 70 65 40,Mercier,2024-07-27,réclamation
-CLI00118,Nath,Descamps,nath.descamps785@yahoo.fr,0258058527,Lefort-les-Bains,2025-12-21,email cliqué
-CLI00119,Christophe,Auger,christophe.auger132@tele2.fr,+33 (0)4 49 30 30 54,Chauvindan,2024-04-18,aucune interaction récente
-CLI00120,Odette,Jourdan,odette.jourdan487@sfr.fr,0491054156,Bernierdan,2026-03-22,réclamation
-CLI00121,Alice,Maillot,alice.maillot170@free.fr,07 95 84 16 16,Arnaud-sur-Morvan,2024-06-01,appel commercial
-CLI00122,François,Chevalier,françois.chevalier541@dbmail.com,0465796275,Dupontboeuf,2025-05-19,réclamation
-CLI00123,Bernadette,Paris,bernadette.paris434@gmail.com,+33 (0)5 53 58 20 29,Fontaine-les-Bains,2023-09-27,email cliqué
-CLI00124,Renée,Imbert,renée.imbert952@live.com,0531909275,Hebert,2025-10-29,réclamation
-CLI00125,Henriette,Dos Santos,henriette.dos santos774@wanadoo.fr,0545543102,Paulnec,2026-04-12,aucune interaction récente
-CLI00126,Georges,Charles,georges.charles707@bouygtel.fr,03 63 94 73 12,Sainte Jérômedan,2026-07-12,email cliqué
-CLI00127,Suzanne,Normand,suzanne.normand731@dbmail.com,0188884422,Grégoire,2024-03-17,appel commercial
-CLI00128,Luc,Joly,luc.joly409@orange.fr,01 53 58 95 78,Raymond,2026-03-11,aucune interaction récente
-CLI00129,Christophe,Ruiz,christophe.ruiz666@ifrance.com,05 56 69 12 51,Turpinboeuf,2023-12-03,appel commercial
-CLI00130,Véronique,Valette,véronique.valette449@free.fr,+33 5 81 80 18 24,Renard,2024-07-03,réclamation
-CLI00131,Mathilde,Jean,mathilde.jean463@live.com,0228438424,Joubert-sur-Morin,2025-01-16,email ouvert
-CLI00132,Jean,Allain,jean.allain254@laposte.net,+33 4 81 90 01 09,Gilles,2024-03-03,email cliqué
-CLI00133,Henriette,Delattre,henriette.delattre66@voila.fr,04 43 47 36 47,Saint Huguesdan,2024-10-13,appel commercial
-CLI00134,Célina,Martins,célina.martins22@dbmail.com,+33 4 69 55 62 58,Gautierboeuf,2024-04-05,réclamation
-CLI00135,Gérard,Da Costa,gérard.da costa568@tele2.fr,+33 2 72 10 46 96,Leroux,2025-12-23,email cliqué
-CLI00136,Hortense,Mace,hortense.mace603@dbmail.com,+33 2 98 78 77 47,Saint Anaïs,2025-01-19,email cliqué
-CLI00137,Olivier,Fabre,olivier.fabre8@live.com,+33 (0)1 76 47 97 48,Saint Aurore,2023-12-09,email ouvert
-CLI00138,Rémy,Petitjean,rémy.petitjean725@live.com,04 97 06 09 83,Lenoir,2024-05-27,aucune interaction récente
-CLI00139,Alice,Bodin,alice.bodin61@tele2.fr,0250216558,Faivre,2023-12-21,email cliqué
-CLI00140,Josette,Grégoire,josette.grégoire70@ifrance.com,+33 (0)1 74 02 57 87,Seguin,2026-03-20,email ouvert
-CLI00141,Guillaume,Millet,guillaume.millet881@dbmail.com,+33 5 36 94 95 88,Camus-la-Forêt,2024-12-17,appel commercial
-CLI00142,Alfred,Tessier,alfred.tessier73@dbmail.com,+33 (0)5 59 94 09 74,Verdier-sur-Dumas,2025-09-13,réclamation
-CLI00143,Isabelle,Voisin,isabelle.voisin244@free.fr,02 78 30 91 30,Bouviernec,2023-12-28,appel commercial
-CLI00144,Marie,Martins,marie.martins686@noos.fr,01 82 28 38 57,Malletboeuf,2026-05-29,demande de devis
-CLI00145,Céline,Rossi,céline.rossi220@dbmail.com,0413973348,Jean,2026-05-12,réclamation
-CLI00146,Théophile,Pires,théophile.pires136@club-internet.fr,+33 7 55 75 84 41,Labbé-sur-Devaux,2024-09-04,aucune interaction récente
-CLI00147,Anastasie,Barre,anastasie.barre958@laposte.net,0172415747,Renaud,2026-01-08,réclamation
-CLI00148,Richard,Guilbert,richard.guilbert591@bouygtel.fr,+33 2 45 99 33 08,Diaz,2024-03-27,demande de devis
-CLI00149,Eugène,Pasquier,eugène.pasquier249@dbmail.com,02 40 20 82 67,Gilles-sur-Mer,2025-10-21,demande de devis
-CLI00150,Sébastien,Lebrun,sébastien.lebrun827@club-internet.fr,+33 (0)2 33 93 80 26,Da Silva,2026-07-12,demande de devis
-CLI00151,Anastasie,Costa,anastasie.costa195@free.fr,0169049915,De Sousa,2026-07-04,email ouvert
-CLI00152,Émilie,Hardy,émilie.hardy100@tiscali.fr,+33 6 38 43 15 27,Wagner,2024-02-05,aucune interaction récente
-CLI00153,Nathalie,Marques,nathalie.marques442@club-internet.fr,+33 3 25 96 68 51,LarocheBourg,2024-02-03,appel commercial
-CLI00154,Guillaume,Martel,guillaume.martel434@dbmail.com,+33 1 40 46 37 45,Guillon,2025-09-15,demande de devis
-CLI00155,Alain,Bertin,alain.bertin479@live.com,+33 1 82 17 42 68,Blot,2023-11-21,aucune interaction récente
-CLI00156,Théodore,Tessier,théodore.tessier56@orange.fr,+33 2 58 72 79 56,Georges-sur-Mer,2025-10-27,aucune interaction récente
-CLI00157,Maggie,Faivre,maggie.faivre670@hotmail.fr,04 94 19 10 88,Baudry,2025-02-23,aucune interaction récente
-CLI00158,Jacques,Millet,jacques.millet101@wanadoo.fr,02 49 39 71 87,Sainte Gilles,2025-01-28,email ouvert
-CLI00159,Cécile,Thibault,cécile.thibault413@gmail.com,04 66 06 40 39,Saint Audreyboeuf,2025-08-21,aucune interaction récente
-CLI00160,Élodie,Lopez,élodie.lopez348@hotmail.fr,01 58 46 22 65,Ponsnec,2024-08-30,email ouvert
-CLI00161,Maggie,Peltier,maggie.peltier255@laposte.net,0250286823,Saint Théophile,2024-12-04,email cliqué
-CLI00162,Michelle,Devaux,michelle.devaux195@noos.fr,03 71 37 52 43,Saint Suzannenec,2025-05-19,réclamation
-CLI00163,Alfred,Guillot,alfred.guillot460@sfr.fr,+33 (0)2 40 90 79 03,Sainte Brigitte,2024-03-28,email cliqué
-CLI00164,Martin,Faivre,martin.faivre433@gmail.com,+33 4 43 39 59 95,Hernandez,2026-03-02,email cliqué
-CLI00165,Margaud,Dijoux,margaud.dijoux286@orange.fr,04 57 40 89 26,CostaVille,2026-06-15,demande de devis
-CLI00166,Lucy,Leconte,lucy.leconte256@ifrance.com,0559624628,Guillot-sur-Mer,2024-06-09,email ouvert
-CLI00167,Mathilde,Meunier,mathilde.meunier454@tele2.fr,+33 (0)5 57 68 82 63,Martins,2024-07-11,réclamation
-CLI00168,Édouard,Lebreton,édouard.lebreton101@live.com,+33 (0)3 51 04 69 90,Saint Suzanne-sur-Mer,2024-12-22,email ouvert
-CLI00169,Xavier,Bailly,xavier.bailly668@voila.fr,+33 3 51 17 39 36,Courtois,2024-07-02,réclamation
-CLI00170,Roland,Gillet,roland.gillet857@tele2.fr,0466458771,Samsonboeuf,2026-04-13,email ouvert
-CLI00171,Alexandrie,Bouvier,alexandrie.bouvier993@noos.fr,+33 (0)3 67 20 48 99,Collet-les-Bains,2024-02-16,email ouvert
-CLI00172,Michel,Gillet,michel.gillet949@orange.fr,04 81 47 77 25,Joly,2025-09-12,email cliqué
-CLI00173,Claudine,Gonzalez,claudine.gonzalez171@gmail.com,+33 (0)2 22 00 62 31,Petit,2024-03-11,demande de devis
-CLI00174,Cécile,Besson,cécile.besson498@gmail.com,07 40 08 86 00,Mace-la-Forêt,2025-02-22,demande de devis
-CLI00175,Sébastien,Durand,sébastien.durand219@wanadoo.fr,03 27 11 82 33,Laine-sur-Fleury,2025-12-25,demande de devis
-CLI00176,René,Chauvin,rené.chauvin925@hotmail.fr,0553793341,Saint Anne,2024-09-03,email ouvert
-CLI00177,Françoise,Ollivier,françoise.ollivier169@gmail.com,+33 (0)3 23 17 65 91,Dupont-sur-Mer,2024-03-03,demande de devis
-CLI00178,Marine,Duhamel,marine.duhamel3@tiscali.fr,0174148902,Durand,2026-06-03,demande de devis
-CLI00179,Jacqueline,Meunier,jacqueline.meunier272@ifrance.com,+33 (0)4 57 29 39 68,Jacob,2025-10-21,demande de devis
-CLI00180,Guillaume,Lagarde,guillaume.lagarde293@hotmail.fr,0178163159,Valentin-sur-Chauvin,2026-06-11,demande de devis
-CLI00181,Victor,Martinez,victor.martinez714@bouygtel.fr,07 63 58 66 29,Clément-la-Forêt,2025-12-06,aucune interaction récente
-CLI00182,Michèle,Legrand,michèle.legrand803@hotmail.fr,0290626551,Saint Thibaultdan,2024-08-13,réclamation
-CLI00183,Richard,Henry,richard.henry678@laposte.net,+33 (0)3 44 67 88 86,Saint Emmanuelboeuf,2025-03-14,aucune interaction récente
-CLI00184,Jeannine,Joseph,jeannine.joseph499@dbmail.com,01 43 46 61 83,Dijoux-sur-Roy,2025-08-05,email cliqué
-CLI00185,Jean,Joly,jean.joly195@bouygtel.fr,0420721264,Ribeirodan,2025-11-19,appel commercial
-CLI00186,Agnès,Deschamps,agnès.deschamps223@orange.fr,03 54 71 24 06,Legendre,2024-09-04,email ouvert
-CLI00187,Vincent,Besnard,vincent.besnard594@dbmail.com,02 61 45 93 75,Chauvin,2026-06-11,aucune interaction récente
-CLI00188,Stéphane,Guyon,stéphane.guyon556@tiscali.fr,+33 4 75 64 65 19,Allain,2026-07-13,email ouvert
-CLI00189,Jules,Normand,jules.normand766@voila.fr,03 61 74 16 72,Guillot,2024-04-17,appel commercial
-CLI00190,Honoré,Auger,honoré.auger59@noos.fr,02 21 79 79 68,Jacquotnec,2025-03-02,email ouvert
-CLI00191,Sophie,Alves,sophie.alves599@hotmail.fr,+33 (0)3 84 52 90 96,Perret,2023-11-09,demande de devis
-CLI00192,Eugène,Poirier,eugène.poirier515@orange.fr,+33 6 05 67 98 25,Sainte François,2024-06-03,réclamation
-CLI00193,Émile,Ferreira,émile.ferreira162@laposte.net,0468573875,Pereiradan,2025-09-14,email ouvert
-CLI00194,Catherine,Julien,catherine.julien984@hotmail.fr,0173105123,Roger-les-Bains,2024-07-12,réclamation
-CLI00195,Aurélie,Pinto,aurélie.pinto83@orange.fr,03 39 26 60 93,Allainnec,2024-09-14,email cliqué
-CLI00196,Maryse,Benoit,maryse.benoit71@sfr.fr,0183918255,Albert,2023-11-17,réclamation
-CLI00197,Marguerite,Camus,marguerite.camus70@wanadoo.fr,0533969155,Maurice-les-Bains,2025-12-23,aucune interaction récente
-CLI00198,Maryse,Léger,maryse.léger883@hotmail.fr,+33 4 69 13 41 25,Gros,2024-09-13,email cliqué
-CLI00199,Jeannine,Dos Santos,jeannine.dos santos414@ifrance.com,03 44 78 28 27,Joly,2024-02-06,email ouvert
-CLI00200,Zoé,Lebreton,zoé.lebreton965@gmail.com,0141723688,Lejeunedan,2024-10-13,réclamation
-CLI00201,Zoé,Hebert,zoé.hebert253@tiscali.fr,+33 2 30 90 34 04,Tanguy,2024-05-27,réclamation
-CLI00202,Renée,Albert,renée.albert609@tiscali.fr,+33 (0)2 48 48 58 07,Carpentiernec,2023-11-05,email ouvert
-CLI00203,Véronique,Guibert,véronique.guibert635@orange.fr,0158745171,Lacroix,2025-12-20,email ouvert
-CLI00204,Jacqueline,Lagarde,jacqueline.lagarde430@live.com,03 20 92 33 09,Rossi,2024-05-19,aucune interaction récente
-CLI00205,Élise,Roy,élise.roy598@dbmail.com,0443948126,Sainte Marcelle,2023-12-02,réclamation
-CLI00206,Gilles,Menard,gilles.menard536@laposte.net,0383672946,SauvageBourg,2025-06-09,appel commercial
-CLI00207,Pauline,Morin,pauline.morin958@ifrance.com,0498775901,Bousquetboeuf,2026-02-01,appel commercial
-CLI00208,Stéphanie,Joubert,stéphanie.joubert210@ifrance.com,+33 5 67 37 45 45,Verdier-les-Bains,2025-03-27,aucune interaction récente
-CLI00209,Claire,Le Goff,claire.le goff734@gmail.com,+33 (0)2 38 70 12 77,Sainte Luc,2026-07-11,appel commercial
-CLI00210,Gilles,Delahaye,gilles.delahaye245@club-internet.fr,+33 4 26 15 41 52,Sainte Lorraine,2024-06-14,appel commercial
-CLI00211,Martine,Faivre,martine.faivre406@orange.fr,02 34 10 37 12,Jean-sur-Paul,2025-07-30,email cliqué
-CLI00212,Alain,Petit,alain.petit688@dbmail.com,+33 (0)5 63 27 13 61,Saint Thomasboeuf,2026-03-07,aucune interaction récente
-CLI00213,Guillaume,Weber,guillaume.weber308@laposte.net,+33 2 18 89 09 27,Mace,2024-03-05,demande de devis
-CLI00214,Océane,Fernandes,océane.fernandes324@noos.fr,03 65 11 21 96,Gilbert,2024-06-24,email ouvert
-CLI00215,Guillaume,Hoarau,guillaume.hoarau10@bouygtel.fr,+33 (0)3 84 89 99 40,Leclerc,2025-02-02,demande de devis
-CLI00216,Danielle,Roche,danielle.roche637@ifrance.com,0178376137,Guérin-sur-Evrard,2026-03-16,réclamation
-CLI00217,Alexandre,Alves,alexandre.alves103@dbmail.com,+33 5 33 96 58 27,Saint JacquelineBourg,2023-07-31,email ouvert
-CLI00218,Martin,Fournier,martin.fournier551@gmail.com,04 38 86 66 18,Chauvet-les-Bains,2024-05-15,email cliqué
-CLI00219,Thierry,Chevalier,thierry.chevalier519@wanadoo.fr,+33 2 96 85 69 14,Chauveau-sur-Mer,2023-09-17,appel commercial
-CLI00220,Emmanuel,Gay,emmanuel.gay136@yahoo.fr,01 79 42 10 20,Mahe,2026-05-25,appel commercial
-CLI00221,Dorothée,Blondel,dorothée.blondel903@bouygtel.fr,+33 5 08 24 10 56,Hardy,2023-09-24,email ouvert
-CLI00222,Michèle,Verdier,michèle.verdier901@hotmail.fr,06 32 85 07 92,Barbier,2024-04-20,email cliqué
-CLI00223,François,Baudry,françois.baudry379@yahoo.fr,+33 1 34 00 30 75,Gérard-les-Bains,2026-05-01,appel commercial
-CLI00224,Auguste,Lenoir,auguste.lenoir162@noos.fr,+33 4 73 36 54 19,Mathieu,2025-01-16,demande de devis
-CLI00225,Bernard,Colin,bernard.colin854@orange.fr,+33 (0)5 47 17 44 51,PineauVille,2024-08-23,réclamation
-CLI00226,Stéphane,Thibault,stéphane.thibault721@club-internet.fr,+33 6 36 59 73 83,Robert,2026-05-02,appel commercial
-CLI00227,André,Rey,andré.rey627@live.com,+33 (0)4 80 06 41 38,Humbert,2025-01-05,aucune interaction récente
-CLI00228,Charles,Blanchard,charles.blanchard542@bouygtel.fr,+33 (0)1 73 38 65 71,Gauthier-sur-Bodin,2023-12-09,email ouvert
-CLI00229,Thérèse,Carlier,thérèse.carlier684@hotmail.fr,+33 (0)5 82 23 44 56,Prévost,2024-11-23,réclamation
-CLI00230,Nicolas,Sanchez,nicolas.sanchez307@sfr.fr,+33 2 45 21 27 75,Mathieuboeuf,2026-06-07,aucune interaction récente
-CLI00231,Marc,Sauvage,marc.sauvage107@club-internet.fr,04 13 11 24 90,Millet,2023-12-25,email cliqué
-CLI00232,Michèle,Menard,michèle.menard271@live.com,01 76 44 20 67,Bouvet-sur-Mer,2023-10-27,email ouvert
-CLI00233,François,Joly,françois.joly912@yahoo.fr,+33 (0)1 82 32 36 51,Coste-sur-Poirier,2026-04-16,email ouvert
-CLI00234,Denis,Simon,denis.simon761@hotmail.fr,+33 5 96 21 51 07,Saint Henriette,2024-11-01,réclamation
-CLI00235,Monique,Delaunay,monique.delaunay160@tiscali.fr,+33 (0)5 24 62 53 24,Cohen,2026-03-10,appel commercial
-CLI00236,Arthur,Bonneau,arthur.bonneau289@orange.fr,0806870146,Humbert,2024-02-19,réclamation
-CLI00237,Susanne,Laine,susanne.laine216@orange.fr,+33 (0)5 24 57 87 59,Lebrunnec,2024-05-07,aucune interaction récente
-CLI00238,André,Julien,andré.julien352@orange.fr,+33 (0)4 32 07 85 93,Roussel,2024-04-12,email cliqué
-CLI00239,Olivier,Da Costa,olivier.da costa704@gmail.com,+33 5 33 52 23 95,Maury,2023-08-15,aucune interaction récente
-CLI00240,Martine,Benard,martine.benard874@laposte.net,+33 7 78 42 70 10,Marion,2024-03-11,appel commercial
-CLI00241,Édith,Martel,édith.martel518@voila.fr,0357252500,Coste,2025-08-26,demande de devis
-CLI00242,Guy,Becker,guy.becker258@yahoo.fr,0221569154,Dufour,2026-06-19,email ouvert
-CLI00243,Nath,Nguyen,nath.nguyen95@tiscali.fr,0325895392,Le Gall-la-Forêt,2023-12-02,aucune interaction récente
-CLI00244,Nathalie,Martin,nathalie.martin434@ifrance.com,+33 (0)3 29 95 93 91,Blanchardboeuf,2025-10-09,appel commercial
-CLI00245,Noël,Perrot,noël.perrot46@dbmail.com,+33 2 33 57 04 33,Sainte PierreBourg,2025-09-12,email ouvert
-CLI00246,Benoît,Collin,benoît.collin342@tele2.fr,03 21 67 65 86,Sainte Simone-sur-Mer,2024-01-10,email cliqué
-CLI00247,David,Fontaine,david.fontaine653@club-internet.fr,+33 (0)4 72 41 15 26,Foucher,2023-10-06,appel commercial
-CLI00248,Éric,Maillot,éric.maillot166@tiscali.fr,+33 (0)5 79 29 62 01,Leclerc,2026-06-17,aucune interaction récente
-CLI00249,Anouk,Grenier,anouk.grenier453@bouygtel.fr,0456310698,BrunetVille,2024-08-14,réclamation
-CLI00250,Aurélie,Fernandez,aurélie.fernandez723@club-internet.fr,03 56 10 32 41,Ferreira-la-Forêt,2025-11-22,demande de devis
-CLI00251,Charlotte,Camus,charlotte.camus575@bouygtel.fr,+33 (0)5 33 25 65 27,Sainte Brigitte,2024-12-06,email ouvert
-CLI00252,Maurice,Royer,maurice.royer115@gmail.com,+33 2 37 15 86 93,Bonnetnec,2025-12-28,email ouvert
-CLI00253,Astrid,Regnier,astrid.regnier968@tiscali.fr,+33 6 74 16 08 98,Labbé-sur-Legendre,2023-12-24,aucune interaction récente
-CLI00254,Olivie,Pons,olivie.pons926@free.fr,+33 3 62 32 06 16,Techer,2023-12-25,email cliqué
-CLI00255,Jeannine,Poirier,jeannine.poirier559@dbmail.com,+33 (0)2 32 68 68 54,AlbertVille,2025-11-24,email ouvert
-CLI00256,Laurence,Coste,laurence.coste855@wanadoo.fr,02 47 62 29 99,Saint GenevièveBourg,2025-11-23,appel commercial
-CLI00257,Élise,Barre,élise.barre597@noos.fr,0531799702,Antoine,2023-12-20,réclamation
-CLI00258,Julie,Bazin,julie.bazin152@ifrance.com,+33 (0)5 40 53 07 45,Sainte Thérèse,2025-12-01,demande de devis
-CLI00259,Thierry,Guyot,thierry.guyot131@tiscali.fr,+33 (0)3 70 24 75 46,Imbert-sur-Blanc,2024-02-06,email ouvert
-CLI00260,Marcel,Cordier,marcel.cordier316@tiscali.fr,0179821486,Valette,2026-02-03,appel commercial
-CLI00261,Hélène,Leroy,hélène.leroy921@free.fr,+33 3 56 03 07 05,Paris,2024-08-22,email ouvert
-CLI00262,Célina,Bodin,célina.bodin921@ifrance.com,+33 (0)1 56 35 79 72,Costeboeuf,2024-07-27,appel commercial
-CLI00263,Virginie,Poirier,virginie.poirier216@hotmail.fr,0155602933,Labbé,2024-02-27,aucune interaction récente
-CLI00264,Manon,Lejeune,manon.lejeune256@wanadoo.fr,+33 (0)1 41 72 29 03,Raynaud,2025-12-14,aucune interaction récente
-CLI00265,Thibault,Mendès,thibault.mendès106@bouygtel.fr,05 17 57 43 74,Ferrandnec,2025-04-16,appel commercial
-CLI00266,Aimé,Gros,aimé.gros799@live.com,0456171545,Bertin,2025-07-04,réclamation
-CLI00267,Manon,Léger,manon.léger906@sfr.fr,+33 3 80 09 65 20,Collet-la-Forêt,2026-04-04,demande de devis
-CLI00268,Anne,Chevallier,anne.chevallier998@gmail.com,+33 4 84 38 75 84,Descamps,2026-03-02,réclamation
-CLI00269,Jules,Cousin,jules.cousin768@yahoo.fr,02 55 48 25 13,Hubert,2025-10-08,email cliqué
-CLI00270,Thibault,De Oliveira,thibault.de oliveira948@dbmail.com,0390947170,Blin-sur-Legendre,2023-10-02,email cliqué
-CLI00271,Léon,Charrier,léon.charrier886@yahoo.fr,04 56 60 22 35,Colasdan,2023-12-19,email cliqué
-CLI00272,Michelle,Arnaud,michelle.arnaud820@hotmail.fr,04 79 25 00 74,Samson,2025-11-09,email cliqué
-CLI00273,Hortense,Salmon,hortense.salmon903@free.fr,02 33 29 66 66,JacobVille,2023-08-26,demande de devis
-CLI00274,Luc,Foucher,luc.foucher26@live.com,+33 (0)4 73 83 00 33,Langlois,2023-12-04,email cliqué
-CLI00275,Alice,Gaudin,alice.gaudin755@club-internet.fr,+33 1 88 04 47 89,Marquesnec,2026-03-15,appel commercial
-CLI00276,Grégoire,Le Goff,grégoire.le goff802@tiscali.fr,0345260332,Peron,2023-08-09,demande de devis
-CLI00277,Corinne,Roy,corinne.roy822@yahoo.fr,0169648909,Saint Marcelle,2026-01-17,aucune interaction récente
-CLI00278,Benoît,Blot,benoît.blot885@yahoo.fr,05 96 61 84 72,Lemonnier,2025-08-05,aucune interaction récente
-CLI00279,Alain,Hernandez,alain.hernandez831@noos.fr,+33 (0)4 22 99 26 18,Lemaire-sur-Carre,2023-11-17,email cliqué
-CLI00280,Franck,Mahe,franck.mahe274@sfr.fr,+33 4 11 83 56 42,Sainte Marc,2025-08-08,email cliqué
-CLI00281,Christine,Rémy,christine.rémy807@orange.fr,+33 (0)1 43 11 97 21,SanchezBourg,2026-04-02,aucune interaction récente
-CLI00282,Lucy,Grondin,lucy.grondin111@tele2.fr,0413701204,Labbé,2024-06-22,demande de devis
-CLI00283,Nicole,Ferreira,nicole.ferreira894@yahoo.fr,+33 (0)1 41 22 55 79,Peron,2023-10-25,email ouvert
-CLI00284,Sylvie,Le Goff,sylvie.le goff880@free.fr,+33 (0)5 47 67 46 76,Marie,2023-12-08,demande de devis
-CLI00285,Monique,Lopez,monique.lopez228@free.fr,+33 (0)5 59 97 97 29,Merleboeuf,2025-05-16,email cliqué
-CLI00286,Marianne,Petitjean,marianne.petitjean837@laposte.net,07 41 67 01 45,Saint Marguerite,2026-02-26,demande de devis
-CLI00287,Diane,Barbe,diane.barbe359@yahoo.fr,03 84 75 62 89,Saint Lucy,2026-05-05,appel commercial
-CLI00288,Corinne,Lelièvre,corinne.lelièvre841@tiscali.fr,+33 2 22 75 35 40,Hubertnec,2024-09-29,email cliqué
-CLI00289,Noël,Chevalier,noël.chevalier229@tele2.fr,06 11 77 51 70,Sainte AntoinetteVille,2025-03-17,email ouvert
-CLI00290,Adrien,Robin,adrien.robin676@club-internet.fr,+33 6 32 55 03 75,Gosselindan,2025-09-08,email cliqué
-CLI00291,Aimée,Auger,aimée.auger409@tele2.fr,+33 (0)2 37 30 55 48,BessonBourg,2023-09-04,appel commercial
-CLI00292,Jacques,Teixeira,jacques.teixeira286@laposte.net,02 44 49 33 16,Albert,2026-01-04,email ouvert
-CLI00293,Laurent,Auger,laurent.auger991@dbmail.com,+33 (0)5 58 09 17 79,Lucasdan,2023-07-20,appel commercial
-CLI00294,Nathalie,Rousseau,nathalie.rousseau360@noos.fr,03 26 92 21 69,Lebrun-sur-Bodin,2026-03-08,aucune interaction récente
-CLI00295,Astrid,Raynaud,astrid.raynaud522@orange.fr,0545547226,Bonnin-sur-Bouvet,2025-01-27,demande de devis
-CLI00296,Zoé,Boutin,zoé.boutin696@dbmail.com,+33 3 56 39 45 22,Allardboeuf,2025-09-01,réclamation
-CLI00297,Patricia,Benard,patricia.benard340@tiscali.fr,04 38 60 81 06,Vincent,2025-07-19,email ouvert
-CLI00298,Luc,Da Costa,luc.da costa119@free.fr,0385204380,Sauvage,2023-11-05,appel commercial
-CLI00299,Margot,Rousset,margot.rousset183@orange.fr,03 76 84 06 66,Courtois,2023-09-12,réclamation
-CLI00300,Noémi,Deschamps,noémi.deschamps986@sfr.fr,03 69 59 89 33,Pons,2024-01-26,appel commercial
-CLI00301,Maggie,Sanchez,maggie.sanchez40@free.fr,+33 2 51 60 64 84,Renard,2025-04-16,email ouvert
-CLI00302,Pierre,Thomas,pierre.thomas611@dbmail.com,02 96 02 59 09,Marin,2025-11-27,demande de devis
-CLI00303,Emmanuelle,Pelletier,emmanuelle.pelletier354@hotmail.fr,0366281826,Regniernec,2023-10-24,aucune interaction récente
-CLI00304,Matthieu,Benoit,matthieu.benoit806@dbmail.com,0493439878,Saint Marguerite,2024-07-29,appel commercial
-CLI00305,Olivier,Clerc,olivier.clerc447@orange.fr,+33 (0)4 73 61 64 84,Sainte Denise,2025-12-11,réclamation
-CLI00306,Caroline,Coulon,caroline.coulon524@gmail.com,0352581128,RobertBourg,2024-03-03,email ouvert
-CLI00307,Louise,Becker,louise.becker395@sfr.fr,02 43 38 61 20,Wagnerboeuf,2023-08-26,réclamation
-CLI00308,David,Vincent,david.vincent195@free.fr,0219934667,Lesageboeuf,2023-08-03,appel commercial
-CLI00309,Margot,Lemaire,margot.lemaire46@voila.fr,+33 (0)1 74 15 81 44,Fernandez-sur-Carre,2025-10-31,aucune interaction récente
-CLI00310,Brigitte,Weber,brigitte.weber447@ifrance.com,+33 (0)6 62 83 26 84,Léger,2025-07-27,email ouvert
-CLI00311,Stéphanie,Chauveau,stéphanie.chauveau533@live.com,+33 (0)2 72 10 09 96,LévyBourg,2024-06-13,réclamation
-CLI00312,Océane,Traore,océane.traore704@live.com,+33 5 57 82 22 39,Leclercq,2023-11-18,aucune interaction récente
-CLI00313,Marguerite,Duhamel,marguerite.duhamel963@gmail.com,02 21 41 41 39,Rémyboeuf,2023-12-03,aucune interaction récente
-CLI00314,Marcelle,Huet,marcelle.huet755@yahoo.fr,0218357759,Lemonnier,2025-04-16,aucune interaction récente
-CLI00315,Geneviève,Duhamel,geneviève.duhamel202@live.com,0567205336,Alves,2023-12-10,appel commercial
-CLI00316,Nath,Rémy,nath.rémy442@tiscali.fr,06 05 47 81 29,Sainte Valérie-les-Bains,2026-03-18,email ouvert
-CLI00317,Louis,Charles,louis.charles972@hotmail.fr,+33 (0)1 46 80 99 69,Da Silva,2025-03-11,aucune interaction récente
-CLI00318,Émilie,Gimenez,émilie.gimenez943@tiscali.fr,+33 4 97 63 94 27,GrosBourg,2024-09-22,appel commercial
-CLI00319,Constance,Dubois,constance.dubois639@orange.fr,+33 2 69 72 29 92,PelletierVille,2024-03-11,appel commercial
-CLI00320,Claire,Grondin,claire.grondin680@hotmail.fr,0499303856,De SousaVille,2023-08-28,email ouvert
-CLI00321,Manon,Breton,manon.breton738@yahoo.fr,0411989266,Coste,2025-07-01,appel commercial
-CLI00322,Victoire,Garnier,victoire.garnier520@wanadoo.fr,0517386557,TexierVille,2025-01-16,appel commercial
-CLI00323,Guillaume,Besnard,guillaume.besnard683@free.fr,+33 2 23 84 32 22,Marion,2025-09-09,demande de devis
-CLI00324,Georges,Peltier,georges.peltier335@orange.fr,04 78 17 77 39,Jourdan,2026-01-14,demande de devis
-CLI00325,Alphonse,Berger,alphonse.berger714@gmail.com,+33 2 99 28 09 20,Poirier,2026-04-22,appel commercial
-CLI00326,Diane,Lebon,diane.lebon568@voila.fr,0231379772,Bouchet,2025-05-04,email cliqué
-CLI00327,Stéphanie,Guillon,stéphanie.guillon197@free.fr,0321579913,Collin-les-Bains,2023-11-11,demande de devis
-CLI00328,Luc,Barbe,luc.barbe681@wanadoo.fr,02 79 91 27 99,Saint Éric,2024-12-25,demande de devis
-CLI00329,Gilles,Marion,gilles.marion694@voila.fr,05 62 50 86 37,MartyBourg,2024-10-24,aucune interaction récente
-CLI00330,Pierre,Martel,pierre.martel925@orange.fr,+33 (0)4 37 98 64 30,Saint Dorothée,2023-07-23,email cliqué
-CLI00331,Marcelle,Leclerc,marcelle.leclerc631@dbmail.com,04 94 12 69 44,Briandboeuf,2025-05-16,réclamation
-CLI00332,Maggie,Chauvin,maggie.chauvin309@sfr.fr,06 99 25 88 74,Verdier,2024-07-27,demande de devis
-CLI00333,Maryse,Chauvin,maryse.chauvin562@laposte.net,+33 (0)3 71 72 13 86,Dias,2025-05-18,email ouvert
-CLI00334,Marianne,Munoz,marianne.munoz312@gmail.com,+33 5 34 01 27 96,Saint Rémy-sur-Mer,2024-08-25,appel commercial
-CLI00335,Julie,Morel,julie.morel216@ifrance.com,04 38 90 27 70,Descamps,2026-05-01,demande de devis
-CLI00336,Diane,Renault,diane.renault805@sfr.fr,+33 (0)3 72 92 05 30,Fernandez,2026-07-12,réclamation
-CLI00337,Renée,Alexandre,renée.alexandre622@live.com,05 53 93 80 11,Jacquetboeuf,2024-07-30,aucune interaction récente
-CLI00338,Sylvie,Baron,sylvie.baron330@orange.fr,+33 6 31 69 04 26,GautierBourg,2025-01-17,demande de devis
-CLI00339,Zacharie,Ferreira,zacharie.ferreira453@wanadoo.fr,0385769735,Bazindan,2026-03-24,demande de devis
-CLI00340,Antoine,Leduc,antoine.leduc692@yahoo.fr,0214633565,RegnierVille,2025-08-22,email cliqué
-CLI00341,Rémy,Menard,rémy.menard524@club-internet.fr,+33 (0)5 46 51 82 75,Carpentier,2026-03-22,demande de devis
-CLI00342,René,Vidal,rené.vidal813@sfr.fr,03 56 33 43 33,Maurice,2024-08-09,aucune interaction récente
-CLI00343,Renée,Gautier,renée.gautier174@yahoo.fr,+33 (0)7 79 08 07 59,Teixeira,2026-03-26,aucune interaction récente
-CLI00344,Hortense,Paris,hortense.paris87@tiscali.fr,+33 4 32 63 92 08,MartelVille,2025-01-16,appel commercial
-CLI00345,Anaïs,Torres,anaïs.torres528@free.fr,02 51 87 50 03,BlinBourg,2024-07-06,aucune interaction récente
-CLI00346,Juliette,Poirier,juliette.poirier649@free.fr,0376479552,Lamy-sur-Mer,2024-10-17,réclamation
-CLI00347,Odette,Guichard,odette.guichard344@live.com,04 32 72 92 93,Sainte Suzanne-sur-Mer,2025-03-15,email ouvert
-CLI00348,Alex,Pierre,alex.pierre839@laposte.net,+33 6 60 26 72 88,Coulon,2024-06-08,email cliqué
-CLI00349,Gabrielle,Duhamel,gabrielle.duhamel689@gmail.com,02 38 20 34 71,Valletboeuf,2024-04-25,appel commercial
-CLI00350,Agnès,Vaillant,agnès.vaillant231@bouygtel.fr,0147615939,Delahaye-sur-Delahaye,2025-02-25,email cliqué
-CLI00351,Renée,Jacquet,renée.jacquet151@live.com,0747169472,Riou,2025-12-17,email ouvert
-CLI00352,Yves,De Oliveira,yves.de oliveira48@ifrance.com,+33 (0)2 28 25 35 54,Texier,2025-06-21,email cliqué
-CLI00353,Richard,Hebert,richard.hebert487@live.com,05 57 22 02 34,Saint Jacquesnec,2023-11-05,réclamation
-CLI00354,Christophe,Reynaud,christophe.reynaud871@gmail.com,+33 (0)5 45 81 14 92,Sainte Thierry-sur-Mer,2024-04-12,email ouvert
-CLI00355,Roland,Pichon,roland.pichon467@laposte.net,+33 3 23 00 55 77,Maillarddan,2023-12-11,demande de devis
-CLI00356,Marthe,Gimenez,marthe.gimenez908@free.fr,05 82 88 45 78,Blanc,2024-11-11,aucune interaction récente
-CLI00357,Aimée,Pasquier,aimée.pasquier590@bouygtel.fr,+33 4 63 00 82 54,JoubertVille,2025-08-07,email cliqué
-CLI00358,Claudine,Faivre,claudine.faivre736@tiscali.fr,0141649308,Roche,2024-10-09,aucune interaction récente
-CLI00359,Gabrielle,Nguyen,gabrielle.nguyen394@ifrance.com,+33 3 10 66 34 16,Blondel,2025-10-30,demande de devis
-CLI00360,Juliette,Lemonnier,juliette.lemonnier410@bouygtel.fr,0420631224,Sainte Lauredan,2024-05-09,email cliqué
-CLI00361,Laurence,Marin,laurence.marin152@sfr.fr,0146208021,Royer,2023-11-30,aucune interaction récente
-CLI00362,Brigitte,Petitjean,brigitte.petitjean705@voila.fr,+33 2 34 20 73 56,Didier,2026-07-13,email ouvert
-CLI00363,Célina,Grenier,célina.grenier915@gmail.com,0229204618,Arnaud-sur-Mer,2026-03-23,email ouvert
-CLI00364,Philippe,Weber,philippe.weber798@voila.fr,+33 (0)3 84 67 30 37,Saint Christellenec,2025-07-31,demande de devis
-CLI00365,Thierry,Breton,thierry.breton225@free.fr,+33 (0)2 52 47 43 50,Marie,2024-03-30,email cliqué
-CLI00366,Bernadette,Germain,bernadette.germain824@voila.fr,+33 4 27 91 63 00,Blot-sur-Ollivier,2025-08-08,aucune interaction récente
-CLI00367,Honoré,Guichard,honoré.guichard531@hotmail.fr,+33 2 97 71 95 00,Imbert,2023-12-31,demande de devis
-CLI00368,Élise,Gautier,élise.gautier52@laposte.net,03 73 58 57 30,Pelletier-les-Bains,2024-04-15,réclamation
-CLI00369,Augustin,Vallée,augustin.vallée256@tele2.fr,0753928557,Joseph,2026-04-13,email ouvert
-CLI00370,Françoise,Renard,françoise.renard468@hotmail.fr,+33 6 24 48 57 08,Peron-les-Bains,2026-03-09,email cliqué
-CLI00371,Laure,Marchal,laure.marchal821@orange.fr,0183863878,Raymond,2024-05-21,demande de devis
-CLI00372,Anouk,Clerc,anouk.clerc684@dbmail.com,+33 (0)2 37 81 02 20,Gautier,2024-12-28,réclamation
-CLI00373,Eugène,David,eugène.david573@ifrance.com,03 88 05 39 10,Bègue,2025-01-04,réclamation
-CLI00374,Victoire,Chevalier,victoire.chevalier325@tele2.fr,+33 (0)4 93 86 50 94,FournierBourg,2026-01-15,demande de devis
-CLI00375,Denis,Fabre,denis.fabre628@wanadoo.fr,+33 (0)2 40 38 63 38,Colas,2025-05-31,aucune interaction récente
-CLI00376,Joseph,Pascal,joseph.pascal914@noos.fr,+33 (0)4 92 76 12 28,Bodinboeuf,2025-07-05,réclamation
-CLI00377,Élisabeth,Brunel,élisabeth.brunel437@tele2.fr,0470855665,Guillot-sur-Thibault,2025-03-05,réclamation
-CLI00378,Alexandria,Gosselin,alexandria.gosselin457@bouygtel.fr,0630760049,Saint Thibaut,2023-07-23,email cliqué
-CLI00379,Matthieu,Benoit,matthieu.benoit762@dbmail.com,+33 (0)4 27 88 89 92,Saint Célineboeuf,2024-01-03,demande de devis
-CLI00380,Rémy,Poulain,rémy.poulain461@orange.fr,+33 3 88 41 96 93,Sainte Sophiedan,2024-01-21,appel commercial
-CLI00381,Valérie,Blot,valérie.blot770@yahoo.fr,0169961055,DelattreBourg,2026-02-23,email cliqué
-CLI00382,Michel,Letellier,michel.letellier861@voila.fr,01 78 48 05 89,Millet,2025-01-16,aucune interaction récente
-CLI00383,Matthieu,Brunet,matthieu.brunet284@gmail.com,06 09 98 13 64,Caron-les-Bains,2024-07-18,réclamation
-CLI00384,Christelle,Masse,christelle.masse497@gmail.com,04 11 16 86 22,Vaillant-sur-Mer,2024-12-31,aucune interaction récente
-CLI00385,Manon,Masse,manon.masse245@sfr.fr,+33 3 81 14 65 91,Sainte Audreyboeuf,2024-07-31,appel commercial
-CLI00386,Tristan,Barre,tristan.barre451@voila.fr,0322597927,Saint Luc,2025-08-05,email ouvert
-CLI00387,Honoré,Boulay,honoré.boulay731@hotmail.fr,+33 (0)1 78 39 24 05,Sainte Catherinedan,2023-08-09,appel commercial
-CLI00388,Marc,Rousset,marc.rousset241@sfr.fr,+33 3 89 87 92 06,Dupré-sur-Laine,2023-09-01,appel commercial
-CLI00389,Jean,Lopez,jean.lopez344@club-internet.fr,+33 4 22 07 01 64,Nicolas,2023-08-05,appel commercial
-CLI00390,Manon,Collin,manon.collin915@orange.fr,02 38 57 98 12,Charrier,2026-06-09,réclamation
-CLI00391,Gabrielle,Mendès,gabrielle.mendès83@voila.fr,+33 (0)3 83 84 57 62,Sainte Marianne,2024-08-04,email cliqué
-CLI00392,Lorraine,Hernandez,lorraine.hernandez155@orange.fr,0182460843,Leblanc,2026-03-25,email cliqué
-CLI00393,Margaux,Dos Santos,margaux.dos santos393@hotmail.fr,03 70 63 92 64,Boulanger-sur-Pons,2025-03-01,aucune interaction récente
-CLI00394,Lucas,Guibert,lucas.guibert157@laposte.net,+33 2 62 48 26 29,Prévost,2023-09-28,aucune interaction récente
-CLI00395,Élisabeth,Fouquet,élisabeth.fouquet220@yahoo.fr,+33 4 71 20 56 64,Vallet-la-Forêt,2023-12-29,email ouvert
-CLI00396,Laurent,Gautier,laurent.gautier425@laposte.net,+33 1 53 99 49 99,Godard,2024-03-26,demande de devis
-CLI00397,Marianne,Michel,marianne.michel339@live.com,+33 (0)6 82 89 75 26,Reynaud-les-Bains,2024-01-11,réclamation
-CLI00398,Maurice,David,maurice.david478@noos.fr,+33 (0)4 22 63 33 12,Chauvetdan,2025-08-07,demande de devis
-CLI00399,Céline,Hoarau,céline.hoarau64@noos.fr,01 72 96 56 99,Regnier-sur-Hardy,2025-06-17,email cliqué
-CLI00400,Maryse,Morel,maryse.morel853@wanadoo.fr,+33 (0)6 30 70 38 86,Sainte Diane,2025-10-31,demande de devis
-CLI00401,Benoît,Aubert,benoît.aubert399@club-internet.fr,05 45 44 72 64,Vincent-sur-Blot,2025-02-01,réclamation
-CLI00402,Guy,Barthelemy,guy.barthelemy969@tele2.fr,+33 (0)2 47 29 82 66,Lebreton,2023-08-12,aucune interaction récente
-CLI00403,Cécile,Maury,cécile.maury21@sfr.fr,02 34 45 21 11,Couturierboeuf,2023-10-17,réclamation
-CLI00404,Mathilde,Jacob,mathilde.jacob390@wanadoo.fr,+33 5 18 86 02 59,Goncalves,2026-02-22,demande de devis
-CLI00405,Joseph,Lecoq,joseph.lecoq7@gmail.com,04 66 47 42 12,Bernard,2025-05-28,appel commercial
-CLI00406,Philippe,Richard,philippe.richard306@tele2.fr,08 08 09 73 39,De Sousanec,2024-11-11,demande de devis
-CLI00407,Joséphine,Brunel,joséphine.brunel874@voila.fr,+33 4 30 98 30 22,Sainte Auguste,2023-12-22,demande de devis
-CLI00408,Arthur,Martineau,arthur.martineau552@club-internet.fr,0232016224,Peltier-sur-Jacquot,2025-08-21,aucune interaction récente
-CLI00409,Henriette,Guilbert,henriette.guilbert753@free.fr,04 93 01 45 56,Sainte ZoéBourg,2024-05-31,réclamation
-CLI00410,Grégoire,Rivière,grégoire.rivière820@bouygtel.fr,0557833901,Chauveau-sur-Lombard,2025-02-14,réclamation
-CLI00411,Emmanuel,Guillet,emmanuel.guillet920@club-internet.fr,04 71 48 99 52,Thibault-sur-Mahe,2025-02-04,email cliqué
-CLI00412,Louise,Mahe,louise.mahe500@tiscali.fr,+33 3 73 43 01 07,Saint Susannenec,2024-10-11,email cliqué
-CLI00413,Xavier,Marty,xavier.marty280@sfr.fr,+33 (0)3 57 44 14 48,BretonVille,2023-11-17,demande de devis
-CLI00414,Xavier,Leblanc,xavier.leblanc498@ifrance.com,+33 (0)3 25 35 57 70,Leduc,2024-01-02,email ouvert
-CLI00415,Céline,Regnier,céline.regnier399@dbmail.com,05 57 08 49 58,Moreau-sur-Mer,2025-04-08,appel commercial
-CLI00416,Vincent,Monnier,vincent.monnier685@hotmail.fr,+33 4 32 05 68 29,Perrier-sur-Lemoine,2025-04-28,aucune interaction récente
-CLI00417,Sabine,Hamel,sabine.hamel818@club-internet.fr,0158461735,Hernandez-sur-Mer,2025-02-10,demande de devis
-CLI00418,Jérôme,Marie,jérôme.marie742@live.com,+33 (0)3 57 17 80 78,Aubert,2024-07-22,email cliqué
-CLI00419,Christine,Peron,christine.peron861@wanadoo.fr,0476218230,ChevallierBourg,2023-07-20,demande de devis
-CLI00420,Benjamin,Torres,benjamin.torres942@hotmail.fr,0638018409,Riou,2026-03-19,email cliqué
-CLI00421,Tristan,Bourgeois,tristan.bourgeois638@sfr.fr,0427857142,Paris,2023-11-18,réclamation
-CLI00422,Laurence,Vaillant,laurence.vaillant28@wanadoo.fr,+33 (0)3 59 85 85 42,Baudry,2024-04-09,demande de devis
-CLI00423,David,Langlois,david.langlois607@dbmail.com,01 76 20 70 16,Saint Aurélie,2024-09-17,réclamation
-CLI00424,Maryse,Godard,maryse.godard679@tele2.fr,0468538179,Morin,2025-12-22,email ouvert
-CLI00425,Marthe,Bigot,marthe.bigot86@yahoo.fr,04 67 77 33 29,Marchal,2024-09-17,aucune interaction récente
-CLI00426,Martine,Chartier,martine.chartier439@dbmail.com,0631701715,Pinto-les-Bains,2024-05-20,email cliqué
-CLI00427,Adèle,Texier,adèle.texier888@laposte.net,+33 (0)5 53 15 81 48,Maréchalnec,2024-04-02,demande de devis
-CLI00428,Patrick,Lévy,patrick.lévy187@free.fr,05 31 15 39 66,Le Goff-sur-Devaux,2025-08-14,email ouvert
-CLI00429,Jérôme,Dupré,jérôme.dupré267@hotmail.fr,02 48 99 75 81,Schmitt-la-Forêt,2026-05-28,demande de devis
-CLI00430,Daniel,Joseph,daniel.joseph336@yahoo.fr,04 76 70 13 29,Saint Margaud,2023-12-26,email cliqué
-CLI00431,Élisabeth,Klein,élisabeth.klein466@ifrance.com,03 54 35 49 46,Blanc,2025-04-14,appel commercial
-CLI00432,Juliette,Gros,juliette.gros346@ifrance.com,+33 4 49 05 80 08,Masson,2026-02-13,demande de devis
-CLI00433,Antoine,Huet,antoine.huet285@noos.fr,04 71 66 66 83,Ollivier,2023-12-15,demande de devis
-CLI00434,Frédérique,Jacob,frédérique.jacob259@live.com,02 90 42 20 10,Mace,2026-03-11,email ouvert
-CLI00435,Margaux,Nguyen,margaux.nguyen482@laposte.net,+33 (0)2 62 67 96 92,Grégoirenec,2025-03-12,email ouvert
-CLI00436,Catherine,Jacob,catherine.jacob768@live.com,+33 3 44 69 09 73,Royernec,2026-04-26,réclamation
-CLI00437,Hortense,Poulain,hortense.poulain54@gmail.com,+33 (0)6 99 51 97 12,Hamel-la-Forêt,2024-12-06,appel commercial
-CLI00438,Édouard,Barbe,édouard.barbe230@hotmail.fr,+33 6 51 89 49 05,MerleVille,2024-12-10,aucune interaction récente
-CLI00439,Denise,Lelièvre,denise.lelièvre71@dbmail.com,04 89 44 20 94,Bertin-sur-Bonnet,2025-06-04,aucune interaction récente
-CLI00440,Inès,Roy,inès.roy42@gmail.com,0153471281,Fleury,2023-12-08,email ouvert
-CLI00441,Roger,Paris,roger.paris973@bouygtel.fr,+33 (0)2 47 92 92 75,Bertin,2025-11-19,email cliqué
-CLI00442,Noël,Vallée,noël.vallée205@free.fr,+33 (0)4 84 12 92 76,Gomezdan,2025-09-18,email ouvert
-CLI00443,Jacques,Lacroix,jacques.lacroix637@live.com,+33 (0)4 13 10 27 67,Ollivier,2025-10-10,email cliqué
-CLI00444,Odette,Rossi,odette.rossi245@orange.fr,05 34 74 28 60,Pons,2024-09-06,email cliqué
-CLI00445,Thomas,Laporte,thomas.laporte485@gmail.com,+33 (0)4 90 69 45 44,Sainte Marcellenec,2024-12-02,aucune interaction récente
-CLI00446,Margot,Bouvet,margot.bouvet118@orange.fr,+33 4 81 25 80 01,Sainte Eugène,2025-02-10,réclamation
-CLI00447,Marianne,Cohen,marianne.cohen971@live.com,+33 4 37 43 00 91,Saint Joséphine,2025-06-14,email cliqué
-CLI00448,Mathilde,Mathieu,mathilde.mathieu477@hotmail.fr,+33 5 17 92 12 44,PeltierBourg,2025-06-15,aucune interaction récente
-CLI00449,Robert,Lecoq,robert.lecoq263@noos.fr,0388214066,Lopez,2024-04-24,appel commercial
-CLI00450,Sylvie,Aubry,sylvie.aubry172@free.fr,02 18 73 96 27,Saint Élodienec,2024-03-11,réclamation
-CLI00451,Lucy,Gautier,lucy.gautier622@tele2.fr,0241011947,Sainte Henri,2025-06-30,aucune interaction récente
-CLI00452,Adrien,Morel,adrien.morel736@ifrance.com,0285569087,Nguyennec,2026-01-26,email ouvert
-CLI00453,Renée,Muller,renée.muller797@orange.fr,+33 (0)5 31 71 98 55,Maréchal,2023-09-14,email cliqué
-CLI00454,Madeleine,Robin,madeleine.robin988@live.com,0229743280,Peltier-sur-Mer,2024-06-07,appel commercial
-CLI00455,Amélie,Gautier,amélie.gautier111@live.com,02 31 73 20 30,Dupuis-sur-Camus,2024-09-14,réclamation
-CLI00456,Sophie,Gimenez,sophie.gimenez27@club-internet.fr,06 20 05 05 06,Saint Susandan,2026-05-11,appel commercial
-CLI00457,Élise,Gérard,élise.gérard590@orange.fr,+33 (0)1 64 27 07 90,Boutin,2025-06-26,aucune interaction récente
-CLI00458,Alexandre,Giraud,alexandre.giraud930@gmail.com,0237792911,Sainte Jeannine-sur-Mer,2023-09-23,demande de devis
-CLI00459,Luc,Launay,luc.launay407@dbmail.com,04 75 19 82 53,Saint Xavier,2023-09-23,aucune interaction récente
-CLI00460,Robert,Blanchard,robert.blanchard204@noos.fr,+33 4 99 82 73 90,Roussel,2025-11-28,email ouvert
-CLI00461,Louise,Raymond,louise.raymond607@ifrance.com,+33 1 45 71 00 21,Jacquet-sur-Delattre,2025-08-14,aucune interaction récente
-CLI00462,Sophie,Leleu,sophie.leleu851@tiscali.fr,+33 3 59 24 87 63,Bourdon,2025-08-12,aucune interaction récente
-CLI00463,Jeannine,Arnaud,jeannine.arnaud249@tiscali.fr,+33 (0)4 58 56 08 33,Saint Laureboeuf,2026-02-15,email ouvert
-CLI00464,Élodie,Guillou,élodie.guillou714@orange.fr,03 60 40 31 27,Schmitt-les-Bains,2025-07-19,appel commercial
-CLI00465,Benjamin,Vincent,benjamin.vincent871@live.com,0361645970,Saint Élise-les-Bains,2024-01-05,aucune interaction récente
-CLI00466,Antoine,Vallée,antoine.vallée615@wanadoo.fr,+33 (0)2 19 37 99 56,Letellier,2025-07-26,email ouvert
-CLI00467,Victor,Rolland,victor.rolland816@yahoo.fr,0370136363,Sainte Isabelledan,2023-09-13,réclamation
-CLI00468,Bernadette,Rodrigues,bernadette.rodrigues802@sfr.fr,03 27 65 27 35,Renaud,2024-07-18,email ouvert
-CLI00469,Arthur,Jacquot,arthur.jacquot356@gmail.com,0261177625,Collet,2025-05-07,réclamation
-CLI00470,Sophie,Diaz,sophie.diaz439@free.fr,+33 2 32 68 73 97,LopesVille,2025-09-23,aucune interaction récente
-CLI00471,Nathalie,Hoarau,nathalie.hoarau380@orange.fr,0582939290,BertrandVille,2026-07-06,email ouvert
-CLI00472,Nath,Lecoq,nath.lecoq519@wanadoo.fr,+33 (0)5 64 86 71 77,Perez,2025-03-19,aucune interaction récente
-CLI00473,Alexandre,Jacquot,alexandre.jacquot350@noos.fr,+33 2 57 54 31 07,Renard,2025-08-24,email ouvert
-CLI00474,Henriette,Letellier,henriette.letellier870@voila.fr,06 36 26 25 70,Sainte Marieboeuf,2025-02-16,demande de devis
-CLI00475,Théodore,Launay,théodore.launay843@bouygtel.fr,+33 2 29 95 08 50,Sainte Aiméedan,2025-05-24,demande de devis
-CLI00476,Aimée,Poulain,aimée.poulain109@free.fr,+33 (0)3 58 25 38 17,Boutin-sur-Lacroix,2025-10-18,demande de devis
-CLI00477,Patricia,Jean,patricia.jean984@dbmail.com,0415864015,Sauvage,2024-12-29,appel commercial
-CLI00478,Édith,Rivière,édith.rivière651@tiscali.fr,0630951371,Sainte Joseph-la-Forêt,2026-05-31,demande de devis
-CLI00479,Denis,Nicolas,denis.nicolas725@free.fr,0247272380,Delattre,2026-06-12,email cliqué
-CLI00480,Élodie,Payet,élodie.payet446@tiscali.fr,0562704310,Dijoux,2025-06-21,email cliqué
-CLI00481,Antoinette,Delorme,antoinette.delorme752@dbmail.com,0739887749,Schneider,2024-01-20,réclamation
-CLI00482,Raymond,Dumas,raymond.dumas989@tiscali.fr,0442025472,Renard-sur-Mendès,2025-02-21,aucune interaction récente
-CLI00483,Jules,Roger,jules.roger277@laposte.net,+33 3 76 10 59 27,Lemaître,2024-02-03,réclamation
-CLI00484,Gabrielle,Neveu,gabrielle.neveu828@gmail.com,0485257828,Rivière,2026-04-19,réclamation
-CLI00485,Anne,Didier,anne.didier794@laposte.net,04 72 20 88 54,Charpentier-les-Bains,2025-12-08,demande de devis
-CLI00486,Nathalie,Pichon,nathalie.pichon477@dbmail.com,+33 (0)6 95 02 81 40,Maurice-sur-Mer,2024-11-15,demande de devis
-CLI00487,Éric,Millet,éric.millet846@gmail.com,+33 3 67 43 01 87,Sainte Léondan,2024-06-28,aucune interaction récente
-CLI00488,Josette,Gros,josette.gros607@gmail.com,0545265650,Barre,2024-08-04,appel commercial
-CLI00489,Caroline,Guilbert,caroline.guilbert331@hotmail.fr,+33 5 96 67 42 66,Coste,2025-05-01,email cliqué
-CLI00490,Guy,Guillaume,guy.guillaume851@club-internet.fr,04 80 19 61 06,Legros,2024-01-23,email ouvert
-CLI00491,Célina,Lacombe,célina.lacombe286@laposte.net,+33 3 44 64 87 04,Bailly-sur-Teixeira,2025-03-19,demande de devis
-CLI00492,Célina,Hubert,célina.hubert250@voila.fr,+33 (0)2 90 44 71 46,Marin,2026-04-04,demande de devis
-CLI00493,Madeleine,Moulin,madeleine.moulin584@voila.fr,+33 (0)4 27 71 95 97,Nguyen-sur-Poirier,2025-06-03,réclamation
-CLI00494,Christelle,Lemonnier,christelle.lemonnier685@yahoo.fr,0145429025,Jacquot-les-Bains,2024-08-10,demande de devis
-CLI00495,Bernard,Maillard,bernard.maillard345@live.com,04 91 04 48 18,Gosselin,2025-06-03,email ouvert
-CLI00496,Paulette,Gauthier,paulette.gauthier507@free.fr,0470445189,Meunier,2023-07-30,appel commercial
-CLI00497,Diane,Carre,diane.carre187@live.com,05 56 52 13 28,Roche,2025-12-03,demande de devis
-CLI00498,Gabrielle,Bonneau,gabrielle.bonneau218@wanadoo.fr,+33 (0)5 59 71 12 07,Langlois,2025-08-11,appel commercial
-CLI00499,Guillaume,Pichon,guillaume.pichon817@wanadoo.fr,0324401322,Le Gall,2023-11-30,appel commercial
-CLI00500,Gilles,Chevalier,gilles.chevalier349@noos.fr,+33 (0)2 23 07 60 31,Saint Charlotte,2023-11-23,appel commercial
+CLI00001,Lucie,Marie,lucie.marie655@voila.fr,0382321819,DavidVille,2023-10-29,email ouvert
+CLI00002,Nicolas,Bodin,nicolas.bodin26@voila.fr,+33 5 61 37 94 02,Leblanc-la-Forêt,2024-01-05,aucune interaction récente
+CLI00003,Paulette,Marques,paulette.marques282@yahoo.fr,+33 (0)5 19 15 59 40,RegnierBourg,2026-06-19,email cliqué
+CLI00004,Alexandria,Chevalier,alexandria.chevalier229@club-internet.fr,0352103413,Sainte Rogerdan,2025-06-14,email cliqué
+CLI00005,Aimée,Goncalves,aimée.goncalves755@live.com,0361419283,Pinto,2024-09-06,email ouvert
+CLI00006,Lucie,Lagarde,lucie.lagarde693@orange.fr,0179305641,Duhamel,2026-03-05,aucune interaction récente
+CLI00007,Thomas,Lecomte,thomas.lecomte914@tiscali.fr,06 33 24 23 88,Letellier,2025-04-19,réclamation
+CLI00008,Isabelle,Alexandre,isabelle.alexandre90@live.com,+33 2 62 87 10 12,Bazin,2024-10-23,réclamation
+CLI00009,Christophe,Collin,christophe.collin433@ifrance.com,03 85 80 18 45,Sainte Bernadette-les-Bains,2024-11-27,email ouvert
+CLI00010,Michelle,Fouquet,michelle.fouquet31@bouygtel.fr,+33 2 44 48 93 25,Gimenez,2026-05-29,email ouvert
+CLI00011,Éléonore,Martin,éléonore.martin224@dbmail.com,01 46 15 43 03,Chevalier-sur-Clément,2025-09-28,email cliqué
+CLI00012,Sylvie,Muller,sylvie.muller518@laposte.net,+33 6 78 24 89 63,Faivre-sur-Mer,2025-09-07,réclamation
+CLI00013,Andrée,Leconte,andrée.leconte28@live.com,06 30 13 31 50,Lenoir-sur-Rolland,2025-04-23,réclamation
+CLI00014,Aimé,Guérin,aimé.guérin204@gmail.com,+33 2 14 05 18 34,Benoit-les-Bains,2025-09-18,aucune interaction récente
+CLI00015,Henriette,Verdier,henriette.verdier666@tiscali.fr,+33 6 66 31 16 56,BigotVille,2025-07-26,aucune interaction récente
+CLI00016,Madeleine,Perrin,madeleine.perrin559@gmail.com,04 82 13 33 87,Briand,2024-02-05,demande de devis
+CLI00017,Célina,Menard,célina.menard226@hotmail.fr,02 38 08 01 32,Valléedan,2024-03-09,demande de devis
+CLI00018,Andrée,Lopez,andrée.lopez604@free.fr,01 34 64 74 68,Meyer-sur-Mer,2024-06-08,appel commercial
+CLI00019,Bertrand,Delorme,bertrand.delorme829@gmail.com,0180097882,Saint Claude,2024-02-07,email ouvert
+CLI00020,Jeannine,Mercier,jeannine.mercier778@orange.fr,02 51 93 99 09,Sainte Margauxboeuf,2026-05-08,email cliqué
+CLI00021,Lucas,Laroche,lucas.laroche715@dbmail.com,+33 4 13 62 47 51,Sainte Laurence,2026-07-17,demande de devis
+CLI00022,Eugène,Legrand,eugène.legrand349@sfr.fr,0257513542,Devaux-la-Forêt,2025-05-19,appel commercial
+CLI00023,Susan,Guibert,susan.guibert160@wanadoo.fr,+33 (0)4 57 12 41 18,Maillard,2024-05-22,email cliqué
+CLI00024,Marc,Wagner,marc.wagner981@dbmail.com,+33 4 13 87 40 16,Bertrand,2023-07-22,appel commercial
+CLI00025,Pénélope,Dumont,pénélope.dumont105@bouygtel.fr,+33 5 94 86 80 11,Morvan,2023-08-27,email ouvert
+CLI00026,Alexandrie,Guillon,alexandrie.guillon390@laposte.net,02 55 04 50 53,Martineau,2023-11-08,email ouvert
+CLI00027,Renée,Vaillant,renée.vaillant368@noos.fr,+33 3 76 22 60 25,Laroche-sur-Mer,2024-05-06,appel commercial
+CLI00028,Simone,Boutin,simone.boutin619@yahoo.fr,01 69 73 37 54,Hubert,2023-08-13,appel commercial
+CLI00029,Léon,Alexandre,léon.alexandre827@dbmail.com,0218458685,Saint Raymond,2024-01-30,email ouvert
+CLI00030,Rémy,Morel,rémy.morel748@yahoo.fr,04 85 56 98 16,Aubert-sur-Adam,2023-09-05,demande de devis
+CLI00031,Bernadette,Martin,bernadette.martin550@wanadoo.fr,+33 4 95 61 59 51,Guillou,2024-06-21,email ouvert
+CLI00032,Anouk,Millet,anouk.millet997@ifrance.com,0255366299,Lebon,2025-03-10,demande de devis
+CLI00033,Adrien,Bailly,adrien.bailly81@club-internet.fr,+33 5 79 99 57 77,Gros,2024-12-18,réclamation
+CLI00034,Stéphanie,Guyon,stéphanie.guyon301@free.fr,+33 (0)4 37 89 51 34,Philippe,2023-12-27,aucune interaction récente
+CLI00035,Benjamin,Moulin,benjamin.moulin634@tiscali.fr,+33 (0)6 32 69 36 76,Caron,2025-07-07,appel commercial
+CLI00036,Aimé,Hamel,aimé.hamel592@yahoo.fr,03 66 28 70 83,Sainte Grégoiredan,2025-07-19,email cliqué
+CLI00037,Gabrielle,Valentin,gabrielle.valentin722@dbmail.com,05 65 87 27 74,Diaz,2024-05-17,email ouvert
+CLI00038,Renée,Dijoux,renée.dijoux47@tiscali.fr,+33 4 26 71 43 45,Gimenez,2023-10-15,aucune interaction récente
+CLI00039,Henri,Grondin,henri.grondin234@ifrance.com,+33 3 63 16 65 87,Bonnet-sur-Mer,2026-01-16,appel commercial
+CLI00040,Amélie,Pires,amélie.pires82@voila.fr,06 80 54 66 88,Vasseur-sur-Coulon,2024-03-15,email cliqué
+CLI00041,Bernadette,Vallée,bernadette.vallée888@voila.fr,04 81 62 72 98,Sainte Jeanne,2025-03-28,email ouvert
+CLI00042,André,Perez,andré.perez390@noos.fr,+33 6 35 20 46 53,Milletboeuf,2025-10-30,appel commercial
+CLI00043,Alex,Lopes,alex.lopes465@noos.fr,0229708053,Saint OlivieVille,2026-05-24,aucune interaction récente
+CLI00044,Luc,Lefebvre,luc.lefebvre855@laposte.net,+33 2 54 71 93 74,Brun,2025-05-13,appel commercial
+CLI00045,Océane,Wagner,océane.wagner167@yahoo.fr,+33 4 68 19 04 96,Auger-sur-Mer,2023-10-10,appel commercial
+CLI00046,Marie,Techer,marie.techer364@orange.fr,+33 (0)4 58 91 90 58,Peltierboeuf,2023-10-02,email cliqué
+CLI00047,Madeleine,Leblanc,madeleine.leblanc687@voila.fr,07 51 65 72 62,Gilles-la-Forêt,2025-05-24,appel commercial
+CLI00048,Élise,Becker,élise.becker719@tiscali.fr,05 86 94 53 14,Bergerdan,2025-04-03,aucune interaction récente
+CLI00049,Marguerite,Gillet,marguerite.gillet664@dbmail.com,+33 (0)7 85 27 35 45,Godard,2025-08-25,email ouvert
+CLI00050,Robert,Berthelot,robert.berthelot624@voila.fr,+33 2 31 36 78 37,PonsVille,2023-10-28,aucune interaction récente
+CLI00051,Matthieu,Lebon,matthieu.lebon176@orange.fr,0498788568,Benard,2025-08-27,réclamation
+CLI00052,Richard,Schneider,richard.schneider747@bouygtel.fr,+33 2 51 35 18 23,Rousset,2024-12-30,email cliqué
+CLI00053,Monique,Pruvost,monique.pruvost168@wanadoo.fr,0240343524,Saint Robert,2023-09-06,demande de devis
+CLI00054,Bernard,Lenoir,bernard.lenoir389@club-internet.fr,+33 7 61 09 47 77,Gonzalez,2026-06-11,appel commercial
+CLI00055,Philippe,Martel,philippe.martel948@yahoo.fr,+33 (0)5 47 71 90 22,Bailly-sur-Clément,2026-07-12,aucune interaction récente
+CLI00056,Georges,Pascal,georges.pascal705@noos.fr,+33 5 19 77 49 64,Legendre-sur-Lopez,2025-05-17,réclamation
+CLI00057,Nicole,Perrin,nicole.perrin225@sfr.fr,+33 4 13 12 32 81,Bernard,2024-10-08,aucune interaction récente
+CLI00058,Marie,Valentin,marie.valentin333@tiscali.fr,0158344713,Toussaint,2025-04-25,email ouvert
+CLI00059,Suzanne,Philippe,suzanne.philippe235@noos.fr,+33 (0)3 69 24 21 02,Valentin,2025-10-16,email ouvert
+CLI00060,Hélène,Hervé,hélène.hervé825@tele2.fr,+33 (0)6 38 46 48 87,FaureVille,2026-03-19,appel commercial
+CLI00061,Nathalie,Breton,nathalie.breton411@bouygtel.fr,+33 (0)2 34 39 90 49,Saint Charlotte,2025-02-06,appel commercial
+CLI00062,Capucine,Lopes,capucine.lopes68@free.fr,07 61 75 65 51,Boulanger,2024-10-12,email cliqué
+CLI00063,Clémence,Hervé,clémence.hervé936@ifrance.com,+33 (0)6 31 15 45 16,Martindan,2024-10-13,réclamation
+CLI00064,Laurent,Paul,laurent.paul898@live.com,05 94 03 48 24,Rocherdan,2023-11-29,aucune interaction récente
+CLI00065,Louise,Raynaud,louise.raynaud323@orange.fr,+33 4 68 80 86 13,Sainte Georges-les-Bains,2025-01-15,email cliqué
+CLI00066,Michelle,Klein,michelle.klein672@wanadoo.fr,0558773782,Aubert-les-Bains,2026-02-19,demande de devis
+CLI00067,Robert,Leleu,robert.leleu406@noos.fr,0415044997,Cohen,2025-02-28,aucune interaction récente
+CLI00068,Adélaïde,Le Roux,adélaïde.le roux470@ifrance.com,04 73 33 96 36,Sainte Noémi,2024-12-18,email cliqué
+CLI00069,Suzanne,Weber,suzanne.weber272@ifrance.com,+33 7 80 28 95 17,Sainte Alexandre-les-Bains,2024-10-10,email cliqué
+CLI00070,Marcelle,Meyer,marcelle.meyer253@hotmail.fr,04 13 59 61 58,Prévostdan,2026-03-01,aucune interaction récente
+CLI00071,Auguste,Maurice,auguste.maurice575@hotmail.fr,+33 4 42 31 61 17,Lemonnier,2024-06-11,réclamation
+CLI00072,Antoine,Lambert,antoine.lambert270@dbmail.com,+33 (0)4 49 55 62 38,Moreno-les-Bains,2024-01-21,aucune interaction récente
+CLI00073,Édouard,Bourdon,édouard.bourdon599@ifrance.com,+33 7 99 23 74 74,Sainte Sébastien,2025-07-30,demande de devis
+CLI00074,Hugues,Legrand,hugues.legrand920@tele2.fr,0457647436,Gautier-sur-Mer,2024-09-08,réclamation
+CLI00075,Agathe,Bruneau,agathe.bruneau409@club-internet.fr,0148640909,Renault-sur-Mer,2025-05-14,appel commercial
+CLI00076,Adrienne,Vasseur,adrienne.vasseur225@sfr.fr,0262104709,Foucher,2023-12-10,email cliqué
+CLI00077,Théodore,Millet,théodore.millet522@noos.fr,+33 3 56 28 58 84,Boucher,2026-04-15,demande de devis
+CLI00078,Christine,Collet,christine.collet94@dbmail.com,+33 (0)6 38 12 36 85,Sainte Alexandre-la-Forêt,2025-02-26,email ouvert
+CLI00079,Cécile,Tessier,cécile.tessier882@bouygtel.fr,05 08 13 70 98,Bourdon,2024-03-17,email ouvert
+CLI00080,Christophe,Bousquet,christophe.bousquet157@tele2.fr,0555120047,Saint Noël-les-Bains,2024-09-16,aucune interaction récente
+CLI00081,Alexandrie,Leconte,alexandrie.leconte164@noos.fr,+33 5 58 17 96 40,Carpentier,2024-11-15,aucune interaction récente
+CLI00082,Noël,Étienne,noël.étienne433@yahoo.fr,0492064317,Saint LucyVille,2023-09-12,réclamation
+CLI00083,Xavier,Berger,xavier.berger66@laposte.net,+33 2 18 83 93 35,Godard,2023-07-22,demande de devis
+CLI00084,William,Dumont,william.dumont391@bouygtel.fr,+33 2 46 02 05 39,Durand,2024-01-25,réclamation
+CLI00085,Bernard,Marchand,bernard.marchand480@noos.fr,+33 (0)1 83 77 58 91,Gaudin-sur-Mer,2026-05-20,réclamation
+CLI00086,Benjamin,Petitjean,benjamin.petitjean258@wanadoo.fr,0633007661,Mendèsdan,2023-10-07,réclamation
+CLI00087,Édouard,Lebrun,édouard.lebrun882@laposte.net,+33 (0)2 54 49 98 56,Laporte-sur-Cousin,2024-11-27,email ouvert
+CLI00088,Josette,Perret,josette.perret697@yahoo.fr,+33 (0)3 64 67 36 57,LegrosBourg,2024-06-25,aucune interaction récente
+CLI00089,Thomas,Chartier,thomas.chartier118@bouygtel.fr,0290711116,Sainte Suzanne-les-Bains,2025-03-19,aucune interaction récente
+CLI00090,Jacqueline,Guilbert,jacqueline.guilbert907@dbmail.com,+33 (0)5 56 56 04 94,Duval,2025-04-12,réclamation
+CLI00091,Marcel,Meyer,marcel.meyer769@tiscali.fr,+33 2 45 58 51 49,Gilbert,2026-01-30,appel commercial
+CLI00092,Pauline,Loiseau,pauline.loiseau788@voila.fr,0155244550,Meunier,2025-03-30,aucune interaction récente
+CLI00093,Andrée,Muller,andrée.muller349@laposte.net,+33 (0)2 34 83 66 75,Lemaître,2024-06-24,email ouvert
+CLI00094,Victor,Diallo,victor.diallo301@hotmail.fr,+33 (0)2 96 29 01 47,Valléedan,2024-10-14,demande de devis
+CLI00095,Martin,Faivre,martin.faivre162@wanadoo.fr,+33 (0)4 85 61 49 78,Lambert,2024-03-16,demande de devis
+CLI00096,Joséphine,Lefèvre,joséphine.lefèvre4@voila.fr,+33 4 58 32 44 51,Sainte Océane,2024-11-01,aucune interaction récente
+CLI00097,Gilles,Gillet,gilles.gillet897@orange.fr,0219606071,Bruneau,2024-10-31,aucune interaction récente
+CLI00098,Anne,Lacombe,anne.lacombe270@noos.fr,0248605297,Blanc,2024-11-08,réclamation
+CLI00099,Franck,Berger,franck.berger781@noos.fr,02 28 64 53 52,Saint Éléonore-sur-Mer,2026-04-06,email cliqué
+CLI00100,Adèle,Marty,adèle.marty520@laposte.net,+33 2 41 24 32 92,Saint Pénélopedan,2024-12-08,email ouvert
+CLI00101,Geneviève,Samson,geneviève.samson892@tele2.fr,0470271774,Maury,2023-09-18,aucune interaction récente
+CLI00102,Corinne,Legrand,corinne.legrand306@club-internet.fr,06 30 00 54 11,Valentin-sur-Guillou,2024-09-12,aucune interaction récente
+CLI00103,Inès,Lenoir,inès.lenoir520@gmail.com,03 45 59 78 20,Henryboeuf,2026-06-29,réclamation
+CLI00104,Émile,Bodin,émile.bodin204@free.fr,+33 (0)3 83 77 88 92,Guichard,2026-04-20,email cliqué
+CLI00105,Amélie,Lejeune,amélie.lejeune383@dbmail.com,+33 (0)4 80 15 18 64,Ramos,2026-02-06,email cliqué
+CLI00106,Josette,Gérard,josette.gérard553@dbmail.com,+33 (0)2 72 54 62 91,Vaillant,2024-09-03,réclamation
+CLI00107,Sophie,Boulanger,sophie.boulanger941@laposte.net,+33 (0)5 63 85 05 42,Leblanc,2026-05-22,email ouvert
+CLI00108,Claire,Olivier,claire.olivier614@orange.fr,+33 2 96 14 18 88,Sainte Pauline,2025-05-26,appel commercial
+CLI00109,Jeannine,Mallet,jeannine.mallet501@laposte.net,+33 3 28 92 70 65,Hebert,2025-05-18,email ouvert
+CLI00110,Odette,Bouvet,odette.bouvet115@tele2.fr,+33 3 79 47 35 97,Lecoq-la-Forêt,2025-11-17,appel commercial
+CLI00111,Constance,Evrard,constance.evrard900@noos.fr,+33 3 56 92 40 75,HenryBourg,2024-05-26,appel commercial
+CLI00112,Paulette,Renard,paulette.renard246@bouygtel.fr,02 78 61 37 50,Vincentnec,2025-01-19,email ouvert
+CLI00113,Noël,Collin,noël.collin247@hotmail.fr,0368051522,Sainte Véronique,2024-12-17,réclamation
+CLI00114,Véronique,Joly,véronique.joly970@tiscali.fr,01 39 10 43 28,Evrard-sur-Briand,2023-11-17,email ouvert
+CLI00115,Sébastien,Gomez,sébastien.gomez88@club-internet.fr,+33 (0)1 75 36 97 11,GodardVille,2025-06-10,aucune interaction récente
+CLI00116,Hortense,Guillot,hortense.guillot498@laposte.net,0567095396,Chartier,2025-07-20,email ouvert
+CLI00117,Édith,Alves,édith.alves779@hotmail.fr,+33 (0)5 34 70 65 40,Mercier,2024-07-30,réclamation
+CLI00118,Nath,Descamps,nath.descamps785@yahoo.fr,0258058527,Lefort-les-Bains,2025-12-24,email cliqué
+CLI00119,Christophe,Auger,christophe.auger132@tele2.fr,+33 (0)4 49 30 30 54,Chauvindan,2024-04-21,aucune interaction récente
+CLI00120,Odette,Jourdan,odette.jourdan487@sfr.fr,0491054156,Bernierdan,2026-03-25,réclamation
+CLI00121,Alice,Maillot,alice.maillot170@free.fr,07 95 84 16 16,Arnaud-sur-Morvan,2024-06-04,appel commercial
+CLI00122,François,Chevalier,françois.chevalier541@dbmail.com,0465796275,Dupontboeuf,2025-05-22,réclamation
+CLI00123,Bernadette,Paris,bernadette.paris434@gmail.com,+33 (0)5 53 58 20 29,Fontaine-les-Bains,2023-09-30,email cliqué
+CLI00124,Renée,Imbert,renée.imbert952@live.com,0531909275,Hebert,2025-11-01,réclamation
+CLI00125,Henriette,Dos Santos,henriette.dos santos774@wanadoo.fr,0545543102,Paulnec,2026-04-15,aucune interaction récente
+CLI00126,Georges,Charles,georges.charles707@bouygtel.fr,03 63 94 73 12,Sainte Jérômedan,2026-07-15,email cliqué
+CLI00127,Suzanne,Normand,suzanne.normand731@dbmail.com,0188884422,Grégoire,2024-03-20,appel commercial
+CLI00128,Luc,Joly,luc.joly409@orange.fr,01 53 58 95 78,Raymond,2026-03-14,aucune interaction récente
+CLI00129,Christophe,Ruiz,christophe.ruiz666@ifrance.com,05 56 69 12 51,Turpinboeuf,2023-12-06,appel commercial
+CLI00130,Véronique,Valette,véronique.valette449@free.fr,+33 5 81 80 18 24,Renard,2024-07-06,réclamation
+CLI00131,Mathilde,Jean,mathilde.jean463@live.com,0228438424,Joubert-sur-Morin,2025-01-19,email ouvert
+CLI00132,Jean,Allain,jean.allain254@laposte.net,+33 4 81 90 01 09,Gilles,2024-03-06,email cliqué
+CLI00133,Henriette,Delattre,henriette.delattre66@voila.fr,04 43 47 36 47,Saint Huguesdan,2024-10-16,appel commercial
+CLI00134,Célina,Martins,célina.martins22@dbmail.com,+33 4 69 55 62 58,Gautierboeuf,2024-04-08,réclamation
+CLI00135,Gérard,Da Costa,gérard.da costa568@tele2.fr,+33 2 72 10 46 96,Leroux,2025-12-26,email cliqué
+CLI00136,Hortense,Mace,hortense.mace603@dbmail.com,+33 2 98 78 77 47,Saint Anaïs,2025-01-22,email cliqué
+CLI00137,Olivier,Fabre,olivier.fabre8@live.com,+33 (0)1 76 47 97 48,Saint Aurore,2023-12-12,email ouvert
+CLI00138,Rémy,Petitjean,rémy.petitjean725@live.com,04 97 06 09 83,Lenoir,2024-05-30,aucune interaction récente
+CLI00139,Alice,Bodin,alice.bodin61@tele2.fr,0250216558,Faivre,2023-12-24,email cliqué
+CLI00140,Josette,Grégoire,josette.grégoire70@ifrance.com,+33 (0)1 74 02 57 87,Seguin,2026-03-23,email ouvert
+CLI00141,Guillaume,Millet,guillaume.millet881@dbmail.com,+33 5 36 94 95 88,Camus-la-Forêt,2024-12-20,appel commercial
+CLI00142,Alfred,Tessier,alfred.tessier73@dbmail.com,+33 (0)5 59 94 09 74,Verdier-sur-Dumas,2025-09-16,réclamation
+CLI00143,Isabelle,Voisin,isabelle.voisin244@free.fr,02 78 30 91 30,Bouviernec,2023-12-31,appel commercial
+CLI00144,Marie,Martins,marie.martins686@noos.fr,01 82 28 38 57,Malletboeuf,2026-06-01,demande de devis
+CLI00145,Céline,Rossi,céline.rossi220@dbmail.com,0413973348,Jean,2026-05-15,réclamation
+CLI00146,Théophile,Pires,théophile.pires136@club-internet.fr,+33 7 55 75 84 41,Labbé-sur-Devaux,2024-09-07,aucune interaction récente
+CLI00147,Anastasie,Barre,anastasie.barre958@laposte.net,0172415747,Renaud,2026-01-11,réclamation
+CLI00148,Richard,Guilbert,richard.guilbert591@bouygtel.fr,+33 2 45 99 33 08,Diaz,2024-03-30,demande de devis
+CLI00149,Eugène,Pasquier,eugène.pasquier249@dbmail.com,02 40 20 82 67,Gilles-sur-Mer,2025-10-24,demande de devis
+CLI00150,Sébastien,Lebrun,sébastien.lebrun827@club-internet.fr,+33 (0)2 33 93 80 26,Da Silva,2026-07-15,demande de devis
+CLI00151,Anastasie,Costa,anastasie.costa195@free.fr,0169049915,De Sousa,2026-07-07,email ouvert
+CLI00152,Émilie,Hardy,émilie.hardy100@tiscali.fr,+33 6 38 43 15 27,Wagner,2024-02-08,aucune interaction récente
+CLI00153,Nathalie,Marques,nathalie.marques442@club-internet.fr,+33 3 25 96 68 51,LarocheBourg,2024-02-06,appel commercial
+CLI00154,Guillaume,Martel,guillaume.martel434@dbmail.com,+33 1 40 46 37 45,Guillon,2025-09-18,demande de devis
+CLI00155,Alain,Bertin,alain.bertin479@live.com,+33 1 82 17 42 68,Blot,2023-11-24,aucune interaction récente
+CLI00156,Théodore,Tessier,théodore.tessier56@orange.fr,+33 2 58 72 79 56,Georges-sur-Mer,2025-10-30,aucune interaction récente
+CLI00157,Maggie,Faivre,maggie.faivre670@hotmail.fr,04 94 19 10 88,Baudry,2025-02-26,aucune interaction récente
+CLI00158,Jacques,Millet,jacques.millet101@wanadoo.fr,02 49 39 71 87,Sainte Gilles,2025-01-31,email ouvert
+CLI00159,Cécile,Thibault,cécile.thibault413@gmail.com,04 66 06 40 39,Saint Audreyboeuf,2025-08-24,aucune interaction récente
+CLI00160,Élodie,Lopez,élodie.lopez348@hotmail.fr,01 58 46 22 65,Ponsnec,2024-09-02,email ouvert
+CLI00161,Maggie,Peltier,maggie.peltier255@laposte.net,0250286823,Saint Théophile,2024-12-07,email cliqué
+CLI00162,Michelle,Devaux,michelle.devaux195@noos.fr,03 71 37 52 43,Saint Suzannenec,2025-05-22,réclamation
+CLI00163,Alfred,Guillot,alfred.guillot460@sfr.fr,+33 (0)2 40 90 79 03,Sainte Brigitte,2024-03-31,email cliqué
+CLI00164,Martin,Faivre,martin.faivre433@gmail.com,+33 4 43 39 59 95,Hernandez,2026-03-05,email cliqué
+CLI00165,Margaud,Dijoux,margaud.dijoux286@orange.fr,04 57 40 89 26,CostaVille,2026-06-18,demande de devis
+CLI00166,Lucy,Leconte,lucy.leconte256@ifrance.com,0559624628,Guillot-sur-Mer,2024-06-12,email ouvert
+CLI00167,Mathilde,Meunier,mathilde.meunier454@tele2.fr,+33 (0)5 57 68 82 63,Martins,2024-07-14,réclamation
+CLI00168,Édouard,Lebreton,édouard.lebreton101@live.com,+33 (0)3 51 04 69 90,Saint Suzanne-sur-Mer,2024-12-25,email ouvert
+CLI00169,Xavier,Bailly,xavier.bailly668@voila.fr,+33 3 51 17 39 36,Courtois,2024-07-05,réclamation
+CLI00170,Roland,Gillet,roland.gillet857@tele2.fr,0466458771,Samsonboeuf,2026-04-16,email ouvert
+CLI00171,Alexandrie,Bouvier,alexandrie.bouvier993@noos.fr,+33 (0)3 67 20 48 99,Collet-les-Bains,2024-02-19,email ouvert
+CLI00172,Michel,Gillet,michel.gillet949@orange.fr,04 81 47 77 25,Joly,2025-09-15,email cliqué
+CLI00173,Claudine,Gonzalez,claudine.gonzalez171@gmail.com,+33 (0)2 22 00 62 31,Petit,2024-03-14,demande de devis
+CLI00174,Cécile,Besson,cécile.besson498@gmail.com,07 40 08 86 00,Mace-la-Forêt,2025-02-25,demande de devis
+CLI00175,Sébastien,Durand,sébastien.durand219@wanadoo.fr,03 27 11 82 33,Laine-sur-Fleury,2025-12-28,demande de devis
+CLI00176,René,Chauvin,rené.chauvin925@hotmail.fr,0553793341,Saint Anne,2024-09-06,email ouvert
+CLI00177,Françoise,Ollivier,françoise.ollivier169@gmail.com,+33 (0)3 23 17 65 91,Dupont-sur-Mer,2024-03-06,demande de devis
+CLI00178,Marine,Duhamel,marine.duhamel3@tiscali.fr,0174148902,Durand,2026-06-06,demande de devis
+CLI00179,Jacqueline,Meunier,jacqueline.meunier272@ifrance.com,+33 (0)4 57 29 39 68,Jacob,2025-10-24,demande de devis
+CLI00180,Guillaume,Lagarde,guillaume.lagarde293@hotmail.fr,0178163159,Valentin-sur-Chauvin,2026-06-14,demande de devis
+CLI00181,Victor,Martinez,victor.martinez714@bouygtel.fr,07 63 58 66 29,Clément-la-Forêt,2025-12-09,aucune interaction récente
+CLI00182,Michèle,Legrand,michèle.legrand803@hotmail.fr,0290626551,Saint Thibaultdan,2024-08-16,réclamation
+CLI00183,Richard,Henry,richard.henry678@laposte.net,+33 (0)3 44 67 88 86,Saint Emmanuelboeuf,2025-03-17,aucune interaction récente
+CLI00184,Jeannine,Joseph,jeannine.joseph499@dbmail.com,01 43 46 61 83,Dijoux-sur-Roy,2025-08-08,email cliqué
+CLI00185,Jean,Joly,jean.joly195@bouygtel.fr,0420721264,Ribeirodan,2025-11-22,appel commercial
+CLI00186,Agnès,Deschamps,agnès.deschamps223@orange.fr,03 54 71 24 06,Legendre,2024-09-07,email ouvert
+CLI00187,Vincent,Besnard,vincent.besnard594@dbmail.com,02 61 45 93 75,Chauvin,2026-06-14,aucune interaction récente
+CLI00188,Stéphane,Guyon,stéphane.guyon556@tiscali.fr,+33 4 75 64 65 19,Allain,2026-07-16,email ouvert
+CLI00189,Jules,Normand,jules.normand766@voila.fr,03 61 74 16 72,Guillot,2024-04-20,appel commercial
+CLI00190,Honoré,Auger,honoré.auger59@noos.fr,02 21 79 79 68,Jacquotnec,2025-03-05,email ouvert
+CLI00191,Sophie,Alves,sophie.alves599@hotmail.fr,+33 (0)3 84 52 90 96,Perret,2023-11-12,demande de devis
+CLI00192,Eugène,Poirier,eugène.poirier515@orange.fr,+33 6 05 67 98 25,Sainte François,2024-06-06,réclamation
+CLI00193,Émile,Ferreira,émile.ferreira162@laposte.net,0468573875,Pereiradan,2025-09-17,email ouvert
+CLI00194,Catherine,Julien,catherine.julien984@hotmail.fr,0173105123,Roger-les-Bains,2024-07-15,réclamation
+CLI00195,Aurélie,Pinto,aurélie.pinto83@orange.fr,03 39 26 60 93,Allainnec,2024-09-17,email cliqué
+CLI00196,Maryse,Benoit,maryse.benoit71@sfr.fr,0183918255,Albert,2023-11-20,réclamation
+CLI00197,Marguerite,Camus,marguerite.camus70@wanadoo.fr,0533969155,Maurice-les-Bains,2025-12-26,aucune interaction récente
+CLI00198,Maryse,Léger,maryse.léger883@hotmail.fr,+33 4 69 13 41 25,Gros,2024-09-16,email cliqué
+CLI00199,Jeannine,Dos Santos,jeannine.dos santos414@ifrance.com,03 44 78 28 27,Joly,2024-02-09,email ouvert
+CLI00200,Zoé,Lebreton,zoé.lebreton965@gmail.com,0141723688,Lejeunedan,2024-10-16,réclamation
+CLI00201,Zoé,Hebert,zoé.hebert253@tiscali.fr,+33 2 30 90 34 04,Tanguy,2024-05-30,réclamation
+CLI00202,Renée,Albert,renée.albert609@tiscali.fr,+33 (0)2 48 48 58 07,Carpentiernec,2023-11-08,email ouvert
+CLI00203,Véronique,Guibert,véronique.guibert635@orange.fr,0158745171,Lacroix,2025-12-23,email ouvert
+CLI00204,Jacqueline,Lagarde,jacqueline.lagarde430@live.com,03 20 92 33 09,Rossi,2024-05-22,aucune interaction récente
+CLI00205,Élise,Roy,élise.roy598@dbmail.com,0443948126,Sainte Marcelle,2023-12-05,réclamation
+CLI00206,Gilles,Menard,gilles.menard536@laposte.net,0383672946,SauvageBourg,2025-06-12,appel commercial
+CLI00207,Pauline,Morin,pauline.morin958@ifrance.com,0498775901,Bousquetboeuf,2026-02-04,appel commercial
+CLI00208,Stéphanie,Joubert,stéphanie.joubert210@ifrance.com,+33 5 67 37 45 45,Verdier-les-Bains,2025-03-30,aucune interaction récente
+CLI00209,Claire,Le Goff,claire.le goff734@gmail.com,+33 (0)2 38 70 12 77,Sainte Luc,2026-07-14,appel commercial
+CLI00210,Gilles,Delahaye,gilles.delahaye245@club-internet.fr,+33 4 26 15 41 52,Sainte Lorraine,2024-06-17,appel commercial
+CLI00211,Martine,Faivre,martine.faivre406@orange.fr,02 34 10 37 12,Jean-sur-Paul,2025-08-02,email cliqué
+CLI00212,Alain,Petit,alain.petit688@dbmail.com,+33 (0)5 63 27 13 61,Saint Thomasboeuf,2026-03-10,aucune interaction récente
+CLI00213,Guillaume,Weber,guillaume.weber308@laposte.net,+33 2 18 89 09 27,Mace,2024-03-08,demande de devis
+CLI00214,Océane,Fernandes,océane.fernandes324@noos.fr,03 65 11 21 96,Gilbert,2024-06-27,email ouvert
+CLI00215,Guillaume,Hoarau,guillaume.hoarau10@bouygtel.fr,+33 (0)3 84 89 99 40,Leclerc,2025-02-05,demande de devis
+CLI00216,Danielle,Roche,danielle.roche637@ifrance.com,0178376137,Guérin-sur-Evrard,2026-03-19,réclamation
+CLI00217,Alexandre,Alves,alexandre.alves103@dbmail.com,+33 5 33 96 58 27,Saint JacquelineBourg,2023-08-03,email ouvert
+CLI00218,Martin,Fournier,martin.fournier551@gmail.com,04 38 86 66 18,Chauvet-les-Bains,2024-05-18,email cliqué
+CLI00219,Thierry,Chevalier,thierry.chevalier519@wanadoo.fr,+33 2 96 85 69 14,Chauveau-sur-Mer,2023-09-20,appel commercial
+CLI00220,Emmanuel,Gay,emmanuel.gay136@yahoo.fr,01 79 42 10 20,Mahe,2026-05-28,appel commercial
+CLI00221,Dorothée,Blondel,dorothée.blondel903@bouygtel.fr,+33 5 08 24 10 56,Hardy,2023-09-27,email ouvert
+CLI00222,Michèle,Verdier,michèle.verdier901@hotmail.fr,06 32 85 07 92,Barbier,2024-04-23,email cliqué
+CLI00223,François,Baudry,françois.baudry379@yahoo.fr,+33 1 34 00 30 75,Gérard-les-Bains,2026-05-04,appel commercial
+CLI00224,Auguste,Lenoir,auguste.lenoir162@noos.fr,+33 4 73 36 54 19,Mathieu,2025-01-19,demande de devis
+CLI00225,Bernard,Colin,bernard.colin854@orange.fr,+33 (0)5 47 17 44 51,PineauVille,2024-08-26,réclamation
+CLI00226,Stéphane,Thibault,stéphane.thibault721@club-internet.fr,+33 6 36 59 73 83,Robert,2026-05-05,appel commercial
+CLI00227,André,Rey,andré.rey627@live.com,+33 (0)4 80 06 41 38,Humbert,2025-01-08,aucune interaction récente
+CLI00228,Charles,Blanchard,charles.blanchard542@bouygtel.fr,+33 (0)1 73 38 65 71,Gauthier-sur-Bodin,2023-12-12,email ouvert
+CLI00229,Thérèse,Carlier,thérèse.carlier684@hotmail.fr,+33 (0)5 82 23 44 56,Prévost,2024-11-26,réclamation
+CLI00230,Nicolas,Sanchez,nicolas.sanchez307@sfr.fr,+33 2 45 21 27 75,Mathieuboeuf,2026-06-10,aucune interaction récente
+CLI00231,Marc,Sauvage,marc.sauvage107@club-internet.fr,04 13 11 24 90,Millet,2023-12-28,email cliqué
+CLI00232,Michèle,Menard,michèle.menard271@live.com,01 76 44 20 67,Bouvet-sur-Mer,2023-10-30,email ouvert
+CLI00233,François,Joly,françois.joly912@yahoo.fr,+33 (0)1 82 32 36 51,Coste-sur-Poirier,2026-04-19,email ouvert
+CLI00234,Denis,Simon,denis.simon761@hotmail.fr,+33 5 96 21 51 07,Saint Henriette,2024-11-04,réclamation
+CLI00235,Monique,Delaunay,monique.delaunay160@tiscali.fr,+33 (0)5 24 62 53 24,Cohen,2026-03-13,appel commercial
+CLI00236,Arthur,Bonneau,arthur.bonneau289@orange.fr,0806870146,Humbert,2024-02-22,réclamation
+CLI00237,Susanne,Laine,susanne.laine216@orange.fr,+33 (0)5 24 57 87 59,Lebrunnec,2024-05-10,aucune interaction récente
+CLI00238,André,Julien,andré.julien352@orange.fr,+33 (0)4 32 07 85 93,Roussel,2024-04-15,email cliqué
+CLI00239,Olivier,Da Costa,olivier.da costa704@gmail.com,+33 5 33 52 23 95,Maury,2023-08-18,aucune interaction récente
+CLI00240,Martine,Benard,martine.benard874@laposte.net,+33 7 78 42 70 10,Marion,2024-03-14,appel commercial
+CLI00241,Édith,Martel,édith.martel518@voila.fr,0357252500,Coste,2025-08-29,demande de devis
+CLI00242,Guy,Becker,guy.becker258@yahoo.fr,0221569154,Dufour,2026-06-22,email ouvert
+CLI00243,Nath,Nguyen,nath.nguyen95@tiscali.fr,0325895392,Le Gall-la-Forêt,2023-12-05,aucune interaction récente
+CLI00244,Nathalie,Martin,nathalie.martin434@ifrance.com,+33 (0)3 29 95 93 91,Blanchardboeuf,2025-10-12,appel commercial
+CLI00245,Noël,Perrot,noël.perrot46@dbmail.com,+33 2 33 57 04 33,Sainte PierreBourg,2025-09-15,email ouvert
+CLI00246,Benoît,Collin,benoît.collin342@tele2.fr,03 21 67 65 86,Sainte Simone-sur-Mer,2024-01-13,email cliqué
+CLI00247,David,Fontaine,david.fontaine653@club-internet.fr,+33 (0)4 72 41 15 26,Foucher,2023-10-09,appel commercial
+CLI00248,Éric,Maillot,éric.maillot166@tiscali.fr,+33 (0)5 79 29 62 01,Leclerc,2026-06-20,aucune interaction récente
+CLI00249,Anouk,Grenier,anouk.grenier453@bouygtel.fr,0456310698,BrunetVille,2024-08-17,réclamation
+CLI00250,Aurélie,Fernandez,aurélie.fernandez723@club-internet.fr,03 56 10 32 41,Ferreira-la-Forêt,2025-11-25,demande de devis
+CLI00251,Charlotte,Camus,charlotte.camus575@bouygtel.fr,+33 (0)5 33 25 65 27,Sainte Brigitte,2024-12-09,email ouvert
+CLI00252,Maurice,Royer,maurice.royer115@gmail.com,+33 2 37 15 86 93,Bonnetnec,2025-12-31,email ouvert
+CLI00253,Astrid,Regnier,astrid.regnier968@tiscali.fr,+33 6 74 16 08 98,Labbé-sur-Legendre,2023-12-27,aucune interaction récente
+CLI00254,Olivie,Pons,olivie.pons926@free.fr,+33 3 62 32 06 16,Techer,2023-12-28,email cliqué
+CLI00255,Jeannine,Poirier,jeannine.poirier559@dbmail.com,+33 (0)2 32 68 68 54,AlbertVille,2025-11-27,email ouvert
+CLI00256,Laurence,Coste,laurence.coste855@wanadoo.fr,02 47 62 29 99,Saint GenevièveBourg,2025-11-26,appel commercial
+CLI00257,Élise,Barre,élise.barre597@noos.fr,0531799702,Antoine,2023-12-23,réclamation
+CLI00258,Julie,Bazin,julie.bazin152@ifrance.com,+33 (0)5 40 53 07 45,Sainte Thérèse,2025-12-04,demande de devis
+CLI00259,Thierry,Guyot,thierry.guyot131@tiscali.fr,+33 (0)3 70 24 75 46,Imbert-sur-Blanc,2024-02-09,email ouvert
+CLI00260,Marcel,Cordier,marcel.cordier316@tiscali.fr,0179821486,Valette,2026-02-06,appel commercial
+CLI00261,Hélène,Leroy,hélène.leroy921@free.fr,+33 3 56 03 07 05,Paris,2024-08-25,email ouvert
+CLI00262,Célina,Bodin,célina.bodin921@ifrance.com,+33 (0)1 56 35 79 72,Costeboeuf,2024-07-30,appel commercial
+CLI00263,Virginie,Poirier,virginie.poirier216@hotmail.fr,0155602933,Labbé,2024-03-01,aucune interaction récente
+CLI00264,Manon,Lejeune,manon.lejeune256@wanadoo.fr,+33 (0)1 41 72 29 03,Raynaud,2025-12-17,aucune interaction récente
+CLI00265,Thibault,Mendès,thibault.mendès106@bouygtel.fr,05 17 57 43 74,Ferrandnec,2025-04-19,appel commercial
+CLI00266,Aimé,Gros,aimé.gros799@live.com,0456171545,Bertin,2025-07-07,réclamation
+CLI00267,Manon,Léger,manon.léger906@sfr.fr,+33 3 80 09 65 20,Collet-la-Forêt,2026-04-07,demande de devis
+CLI00268,Anne,Chevallier,anne.chevallier998@gmail.com,+33 4 84 38 75 84,Descamps,2026-03-05,réclamation
+CLI00269,Jules,Cousin,jules.cousin768@yahoo.fr,02 55 48 25 13,Hubert,2025-10-11,email cliqué
+CLI00270,Thibault,De Oliveira,thibault.de oliveira948@dbmail.com,0390947170,Blin-sur-Legendre,2023-10-05,email cliqué
+CLI00271,Léon,Charrier,léon.charrier886@yahoo.fr,04 56 60 22 35,Colasdan,2023-12-22,email cliqué
+CLI00272,Michelle,Arnaud,michelle.arnaud820@hotmail.fr,04 79 25 00 74,Samson,2025-11-12,email cliqué
+CLI00273,Hortense,Salmon,hortense.salmon903@free.fr,02 33 29 66 66,JacobVille,2023-08-29,demande de devis
+CLI00274,Luc,Foucher,luc.foucher26@live.com,+33 (0)4 73 83 00 33,Langlois,2023-12-07,email cliqué
+CLI00275,Alice,Gaudin,alice.gaudin755@club-internet.fr,+33 1 88 04 47 89,Marquesnec,2026-03-18,appel commercial
+CLI00276,Grégoire,Le Goff,grégoire.le goff802@tiscali.fr,0345260332,Peron,2023-08-12,demande de devis
+CLI00277,Corinne,Roy,corinne.roy822@yahoo.fr,0169648909,Saint Marcelle,2026-01-20,aucune interaction récente
+CLI00278,Benoît,Blot,benoît.blot885@yahoo.fr,05 96 61 84 72,Lemonnier,2025-08-08,aucune interaction récente
+CLI00279,Alain,Hernandez,alain.hernandez831@noos.fr,+33 (0)4 22 99 26 18,Lemaire-sur-Carre,2023-11-20,email cliqué
+CLI00280,Franck,Mahe,franck.mahe274@sfr.fr,+33 4 11 83 56 42,Sainte Marc,2025-08-11,email cliqué
+CLI00281,Christine,Rémy,christine.rémy807@orange.fr,+33 (0)1 43 11 97 21,SanchezBourg,2026-04-05,aucune interaction récente
+CLI00282,Lucy,Grondin,lucy.grondin111@tele2.fr,0413701204,Labbé,2024-06-25,demande de devis
+CLI00283,Nicole,Ferreira,nicole.ferreira894@yahoo.fr,+33 (0)1 41 22 55 79,Peron,2023-10-28,email ouvert
+CLI00284,Sylvie,Le Goff,sylvie.le goff880@free.fr,+33 (0)5 47 67 46 76,Marie,2023-12-11,demande de devis
+CLI00285,Monique,Lopez,monique.lopez228@free.fr,+33 (0)5 59 97 97 29,Merleboeuf,2025-05-19,email cliqué
+CLI00286,Marianne,Petitjean,marianne.petitjean837@laposte.net,07 41 67 01 45,Saint Marguerite,2026-03-01,demande de devis
+CLI00287,Diane,Barbe,diane.barbe359@yahoo.fr,03 84 75 62 89,Saint Lucy,2026-05-08,appel commercial
+CLI00288,Corinne,Lelièvre,corinne.lelièvre841@tiscali.fr,+33 2 22 75 35 40,Hubertnec,2024-10-02,email cliqué
+CLI00289,Noël,Chevalier,noël.chevalier229@tele2.fr,06 11 77 51 70,Sainte AntoinetteVille,2025-03-20,email ouvert
+CLI00290,Adrien,Robin,adrien.robin676@club-internet.fr,+33 6 32 55 03 75,Gosselindan,2025-09-11,email cliqué
+CLI00291,Aimée,Auger,aimée.auger409@tele2.fr,+33 (0)2 37 30 55 48,BessonBourg,2023-09-07,appel commercial
+CLI00292,Jacques,Teixeira,jacques.teixeira286@laposte.net,02 44 49 33 16,Albert,2026-01-07,email ouvert
+CLI00293,Laurent,Auger,laurent.auger991@dbmail.com,+33 (0)5 58 09 17 79,Lucasdan,2023-07-23,appel commercial
+CLI00294,Nathalie,Rousseau,nathalie.rousseau360@noos.fr,03 26 92 21 69,Lebrun-sur-Bodin,2026-03-11,aucune interaction récente
+CLI00295,Astrid,Raynaud,astrid.raynaud522@orange.fr,0545547226,Bonnin-sur-Bouvet,2025-01-30,demande de devis
+CLI00296,Zoé,Boutin,zoé.boutin696@dbmail.com,+33 3 56 39 45 22,Allardboeuf,2025-09-04,réclamation
+CLI00297,Patricia,Benard,patricia.benard340@tiscali.fr,04 38 60 81 06,Vincent,2025-07-22,email ouvert
+CLI00298,Luc,Da Costa,luc.da costa119@free.fr,0385204380,Sauvage,2023-11-08,appel commercial
+CLI00299,Margot,Rousset,margot.rousset183@orange.fr,03 76 84 06 66,Courtois,2023-09-15,réclamation
+CLI00300,Noémi,Deschamps,noémi.deschamps986@sfr.fr,03 69 59 89 33,Pons,2024-01-29,appel commercial
+CLI00301,Maggie,Sanchez,maggie.sanchez40@free.fr,+33 2 51 60 64 84,Renard,2025-04-19,email ouvert
+CLI00302,Pierre,Thomas,pierre.thomas611@dbmail.com,02 96 02 59 09,Marin,2025-11-30,demande de devis
+CLI00303,Emmanuelle,Pelletier,emmanuelle.pelletier354@hotmail.fr,0366281826,Regniernec,2023-10-27,aucune interaction récente
+CLI00304,Matthieu,Benoit,matthieu.benoit806@dbmail.com,0493439878,Saint Marguerite,2024-08-01,appel commercial
+CLI00305,Olivier,Clerc,olivier.clerc447@orange.fr,+33 (0)4 73 61 64 84,Sainte Denise,2025-12-14,réclamation
+CLI00306,Caroline,Coulon,caroline.coulon524@gmail.com,0352581128,RobertBourg,2024-03-06,email ouvert
+CLI00307,Louise,Becker,louise.becker395@sfr.fr,02 43 38 61 20,Wagnerboeuf,2023-08-29,réclamation
+CLI00308,David,Vincent,david.vincent195@free.fr,0219934667,Lesageboeuf,2023-08-06,appel commercial
+CLI00309,Margot,Lemaire,margot.lemaire46@voila.fr,+33 (0)1 74 15 81 44,Fernandez-sur-Carre,2025-11-03,aucune interaction récente
+CLI00310,Brigitte,Weber,brigitte.weber447@ifrance.com,+33 (0)6 62 83 26 84,Léger,2025-07-30,email ouvert
+CLI00311,Stéphanie,Chauveau,stéphanie.chauveau533@live.com,+33 (0)2 72 10 09 96,LévyBourg,2024-06-16,réclamation
+CLI00312,Océane,Traore,océane.traore704@live.com,+33 5 57 82 22 39,Leclercq,2023-11-21,aucune interaction récente
+CLI00313,Marguerite,Duhamel,marguerite.duhamel963@gmail.com,02 21 41 41 39,Rémyboeuf,2023-12-06,aucune interaction récente
+CLI00314,Marcelle,Huet,marcelle.huet755@yahoo.fr,0218357759,Lemonnier,2025-04-19,aucune interaction récente
+CLI00315,Geneviève,Duhamel,geneviève.duhamel202@live.com,0567205336,Alves,2023-12-13,appel commercial
+CLI00316,Nath,Rémy,nath.rémy442@tiscali.fr,06 05 47 81 29,Sainte Valérie-les-Bains,2026-03-21,email ouvert
+CLI00317,Louis,Charles,louis.charles972@hotmail.fr,+33 (0)1 46 80 99 69,Da Silva,2025-03-14,aucune interaction récente
+CLI00318,Émilie,Gimenez,émilie.gimenez943@tiscali.fr,+33 4 97 63 94 27,GrosBourg,2024-09-25,appel commercial
+CLI00319,Constance,Dubois,constance.dubois639@orange.fr,+33 2 69 72 29 92,PelletierVille,2024-03-14,appel commercial
+CLI00320,Claire,Grondin,claire.grondin680@hotmail.fr,0499303856,De SousaVille,2023-08-31,email ouvert
+CLI00321,Manon,Breton,manon.breton738@yahoo.fr,0411989266,Coste,2025-07-04,appel commercial
+CLI00322,Victoire,Garnier,victoire.garnier520@wanadoo.fr,0517386557,TexierVille,2025-01-19,appel commercial
+CLI00323,Guillaume,Besnard,guillaume.besnard683@free.fr,+33 2 23 84 32 22,Marion,2025-09-12,demande de devis
+CLI00324,Georges,Peltier,georges.peltier335@orange.fr,04 78 17 77 39,Jourdan,2026-01-17,demande de devis
+CLI00325,Alphonse,Berger,alphonse.berger714@gmail.com,+33 2 99 28 09 20,Poirier,2026-04-25,appel commercial
+CLI00326,Diane,Lebon,diane.lebon568@voila.fr,0231379772,Bouchet,2025-05-07,email cliqué
+CLI00327,Stéphanie,Guillon,stéphanie.guillon197@free.fr,0321579913,Collin-les-Bains,2023-11-14,demande de devis
+CLI00328,Luc,Barbe,luc.barbe681@wanadoo.fr,02 79 91 27 99,Saint Éric,2024-12-28,demande de devis
+CLI00329,Gilles,Marion,gilles.marion694@voila.fr,05 62 50 86 37,MartyBourg,2024-10-27,aucune interaction récente
+CLI00330,Pierre,Martel,pierre.martel925@orange.fr,+33 (0)4 37 98 64 30,Saint Dorothée,2023-07-26,email cliqué
+CLI00331,Marcelle,Leclerc,marcelle.leclerc631@dbmail.com,04 94 12 69 44,Briandboeuf,2025-05-19,réclamation
+CLI00332,Maggie,Chauvin,maggie.chauvin309@sfr.fr,06 99 25 88 74,Verdier,2024-07-30,demande de devis
+CLI00333,Maryse,Chauvin,maryse.chauvin562@laposte.net,+33 (0)3 71 72 13 86,Dias,2025-05-21,email ouvert
+CLI00334,Marianne,Munoz,marianne.munoz312@gmail.com,+33 5 34 01 27 96,Saint Rémy-sur-Mer,2024-08-28,appel commercial
+CLI00335,Julie,Morel,julie.morel216@ifrance.com,04 38 90 27 70,Descamps,2026-05-04,demande de devis
+CLI00336,Diane,Renault,diane.renault805@sfr.fr,+33 (0)3 72 92 05 30,Fernandez,2026-07-15,réclamation
+CLI00337,Renée,Alexandre,renée.alexandre622@live.com,05 53 93 80 11,Jacquetboeuf,2024-08-02,aucune interaction récente
+CLI00338,Sylvie,Baron,sylvie.baron330@orange.fr,+33 6 31 69 04 26,GautierBourg,2025-01-20,demande de devis
+CLI00339,Zacharie,Ferreira,zacharie.ferreira453@wanadoo.fr,0385769735,Bazindan,2026-03-27,demande de devis
+CLI00340,Antoine,Leduc,antoine.leduc692@yahoo.fr,0214633565,RegnierVille,2025-08-25,email cliqué
+CLI00341,Rémy,Menard,rémy.menard524@club-internet.fr,+33 (0)5 46 51 82 75,Carpentier,2026-03-25,demande de devis
+CLI00342,René,Vidal,rené.vidal813@sfr.fr,03 56 33 43 33,Maurice,2024-08-12,aucune interaction récente
+CLI00343,Renée,Gautier,renée.gautier174@yahoo.fr,+33 (0)7 79 08 07 59,Teixeira,2026-03-29,aucune interaction récente
+CLI00344,Hortense,Paris,hortense.paris87@tiscali.fr,+33 4 32 63 92 08,MartelVille,2025-01-19,appel commercial
+CLI00345,Anaïs,Torres,anaïs.torres528@free.fr,02 51 87 50 03,BlinBourg,2024-07-09,aucune interaction récente
+CLI00346,Juliette,Poirier,juliette.poirier649@free.fr,0376479552,Lamy-sur-Mer,2024-10-20,réclamation
+CLI00347,Odette,Guichard,odette.guichard344@live.com,04 32 72 92 93,Sainte Suzanne-sur-Mer,2025-03-18,email ouvert
+CLI00348,Alex,Pierre,alex.pierre839@laposte.net,+33 6 60 26 72 88,Coulon,2024-06-11,email cliqué
+CLI00349,Gabrielle,Duhamel,gabrielle.duhamel689@gmail.com,02 38 20 34 71,Valletboeuf,2024-04-28,appel commercial
+CLI00350,Agnès,Vaillant,agnès.vaillant231@bouygtel.fr,0147615939,Delahaye-sur-Delahaye,2025-02-28,email cliqué
+CLI00351,Renée,Jacquet,renée.jacquet151@live.com,0747169472,Riou,2025-12-20,email ouvert
+CLI00352,Yves,De Oliveira,yves.de oliveira48@ifrance.com,+33 (0)2 28 25 35 54,Texier,2025-06-24,email cliqué
+CLI00353,Richard,Hebert,richard.hebert487@live.com,05 57 22 02 34,Saint Jacquesnec,2023-11-08,réclamation
+CLI00354,Christophe,Reynaud,christophe.reynaud871@gmail.com,+33 (0)5 45 81 14 92,Sainte Thierry-sur-Mer,2024-04-15,email ouvert
+CLI00355,Roland,Pichon,roland.pichon467@laposte.net,+33 3 23 00 55 77,Maillarddan,2023-12-14,demande de devis
+CLI00356,Marthe,Gimenez,marthe.gimenez908@free.fr,05 82 88 45 78,Blanc,2024-11-14,aucune interaction récente
+CLI00357,Aimée,Pasquier,aimée.pasquier590@bouygtel.fr,+33 4 63 00 82 54,JoubertVille,2025-08-10,email cliqué
+CLI00358,Claudine,Faivre,claudine.faivre736@tiscali.fr,0141649308,Roche,2024-10-12,aucune interaction récente
+CLI00359,Gabrielle,Nguyen,gabrielle.nguyen394@ifrance.com,+33 3 10 66 34 16,Blondel,2025-11-02,demande de devis
+CLI00360,Juliette,Lemonnier,juliette.lemonnier410@bouygtel.fr,0420631224,Sainte Lauredan,2024-05-12,email cliqué
+CLI00361,Laurence,Marin,laurence.marin152@sfr.fr,0146208021,Royer,2023-12-03,aucune interaction récente
+CLI00362,Brigitte,Petitjean,brigitte.petitjean705@voila.fr,+33 2 34 20 73 56,Didier,2026-07-16,email ouvert
+CLI00363,Célina,Grenier,célina.grenier915@gmail.com,0229204618,Arnaud-sur-Mer,2026-03-26,email ouvert
+CLI00364,Philippe,Weber,philippe.weber798@voila.fr,+33 (0)3 84 67 30 37,Saint Christellenec,2025-08-03,demande de devis
+CLI00365,Thierry,Breton,thierry.breton225@free.fr,+33 (0)2 52 47 43 50,Marie,2024-04-02,email cliqué
+CLI00366,Bernadette,Germain,bernadette.germain824@voila.fr,+33 4 27 91 63 00,Blot-sur-Ollivier,2025-08-11,aucune interaction récente
+CLI00367,Honoré,Guichard,honoré.guichard531@hotmail.fr,+33 2 97 71 95 00,Imbert,2024-01-03,demande de devis
+CLI00368,Élise,Gautier,élise.gautier52@laposte.net,03 73 58 57 30,Pelletier-les-Bains,2024-04-18,réclamation
+CLI00369,Augustin,Vallée,augustin.vallée256@tele2.fr,0753928557,Joseph,2026-04-16,email ouvert
+CLI00370,Françoise,Renard,françoise.renard468@hotmail.fr,+33 6 24 48 57 08,Peron-les-Bains,2026-03-12,email cliqué
+CLI00371,Laure,Marchal,laure.marchal821@orange.fr,0183863878,Raymond,2024-05-24,demande de devis
+CLI00372,Anouk,Clerc,anouk.clerc684@dbmail.com,+33 (0)2 37 81 02 20,Gautier,2024-12-31,réclamation
+CLI00373,Eugène,David,eugène.david573@ifrance.com,03 88 05 39 10,Bègue,2025-01-07,réclamation
+CLI00374,Victoire,Chevalier,victoire.chevalier325@tele2.fr,+33 (0)4 93 86 50 94,FournierBourg,2026-01-18,demande de devis
+CLI00375,Denis,Fabre,denis.fabre628@wanadoo.fr,+33 (0)2 40 38 63 38,Colas,2025-06-03,aucune interaction récente
+CLI00376,Joseph,Pascal,joseph.pascal914@noos.fr,+33 (0)4 92 76 12 28,Bodinboeuf,2025-07-08,réclamation
+CLI00377,Élisabeth,Brunel,élisabeth.brunel437@tele2.fr,0470855665,Guillot-sur-Thibault,2025-03-08,réclamation
+CLI00378,Alexandria,Gosselin,alexandria.gosselin457@bouygtel.fr,0630760049,Saint Thibaut,2023-07-26,email cliqué
+CLI00379,Matthieu,Benoit,matthieu.benoit762@dbmail.com,+33 (0)4 27 88 89 92,Saint Célineboeuf,2024-01-06,demande de devis
+CLI00380,Rémy,Poulain,rémy.poulain461@orange.fr,+33 3 88 41 96 93,Sainte Sophiedan,2024-01-24,appel commercial
+CLI00381,Valérie,Blot,valérie.blot770@yahoo.fr,0169961055,DelattreBourg,2026-02-26,email cliqué
+CLI00382,Michel,Letellier,michel.letellier861@voila.fr,01 78 48 05 89,Millet,2025-01-19,aucune interaction récente
+CLI00383,Matthieu,Brunet,matthieu.brunet284@gmail.com,06 09 98 13 64,Caron-les-Bains,2024-07-21,réclamation
+CLI00384,Christelle,Masse,christelle.masse497@gmail.com,04 11 16 86 22,Vaillant-sur-Mer,2025-01-03,aucune interaction récente
+CLI00385,Manon,Masse,manon.masse245@sfr.fr,+33 3 81 14 65 91,Sainte Audreyboeuf,2024-08-03,appel commercial
+CLI00386,Tristan,Barre,tristan.barre451@voila.fr,0322597927,Saint Luc,2025-08-08,email ouvert
+CLI00387,Honoré,Boulay,honoré.boulay731@hotmail.fr,+33 (0)1 78 39 24 05,Sainte Catherinedan,2023-08-12,appel commercial
+CLI00388,Marc,Rousset,marc.rousset241@sfr.fr,+33 3 89 87 92 06,Dupré-sur-Laine,2023-09-04,appel commercial
+CLI00389,Jean,Lopez,jean.lopez344@club-internet.fr,+33 4 22 07 01 64,Nicolas,2023-08-08,appel commercial
+CLI00390,Manon,Collin,manon.collin915@orange.fr,02 38 57 98 12,Charrier,2026-06-12,réclamation
+CLI00391,Gabrielle,Mendès,gabrielle.mendès83@voila.fr,+33 (0)3 83 84 57 62,Sainte Marianne,2024-08-07,email cliqué
+CLI00392,Lorraine,Hernandez,lorraine.hernandez155@orange.fr,0182460843,Leblanc,2026-03-28,email cliqué
+CLI00393,Margaux,Dos Santos,margaux.dos santos393@hotmail.fr,03 70 63 92 64,Boulanger-sur-Pons,2025-03-04,aucune interaction récente
+CLI00394,Lucas,Guibert,lucas.guibert157@laposte.net,+33 2 62 48 26 29,Prévost,2023-10-01,aucune interaction récente
+CLI00395,Élisabeth,Fouquet,élisabeth.fouquet220@yahoo.fr,+33 4 71 20 56 64,Vallet-la-Forêt,2024-01-01,email ouvert
+CLI00396,Laurent,Gautier,laurent.gautier425@laposte.net,+33 1 53 99 49 99,Godard,2024-03-29,demande de devis
+CLI00397,Marianne,Michel,marianne.michel339@live.com,+33 (0)6 82 89 75 26,Reynaud-les-Bains,2024-01-14,réclamation
+CLI00398,Maurice,David,maurice.david478@noos.fr,+33 (0)4 22 63 33 12,Chauvetdan,2025-08-10,demande de devis
+CLI00399,Céline,Hoarau,céline.hoarau64@noos.fr,01 72 96 56 99,Regnier-sur-Hardy,2025-06-20,email cliqué
+CLI00400,Maryse,Morel,maryse.morel853@wanadoo.fr,+33 (0)6 30 70 38 86,Sainte Diane,2025-11-03,demande de devis
+CLI00401,Benoît,Aubert,benoît.aubert399@club-internet.fr,05 45 44 72 64,Vincent-sur-Blot,2025-02-04,réclamation
+CLI00402,Guy,Barthelemy,guy.barthelemy969@tele2.fr,+33 (0)2 47 29 82 66,Lebreton,2023-08-15,aucune interaction récente
+CLI00403,Cécile,Maury,cécile.maury21@sfr.fr,02 34 45 21 11,Couturierboeuf,2023-10-20,réclamation
+CLI00404,Mathilde,Jacob,mathilde.jacob390@wanadoo.fr,+33 5 18 86 02 59,Goncalves,2026-02-25,demande de devis
+CLI00405,Joseph,Lecoq,joseph.lecoq7@gmail.com,04 66 47 42 12,Bernard,2025-05-31,appel commercial
+CLI00406,Philippe,Richard,philippe.richard306@tele2.fr,08 08 09 73 39,De Sousanec,2024-11-14,demande de devis
+CLI00407,Joséphine,Brunel,joséphine.brunel874@voila.fr,+33 4 30 98 30 22,Sainte Auguste,2023-12-25,demande de devis
+CLI00408,Arthur,Martineau,arthur.martineau552@club-internet.fr,0232016224,Peltier-sur-Jacquot,2025-08-24,aucune interaction récente
+CLI00409,Henriette,Guilbert,henriette.guilbert753@free.fr,04 93 01 45 56,Sainte ZoéBourg,2024-06-03,réclamation
+CLI00410,Grégoire,Rivière,grégoire.rivière820@bouygtel.fr,0557833901,Chauveau-sur-Lombard,2025-02-17,réclamation
+CLI00411,Emmanuel,Guillet,emmanuel.guillet920@club-internet.fr,04 71 48 99 52,Thibault-sur-Mahe,2025-02-07,email cliqué
+CLI00412,Louise,Mahe,louise.mahe500@tiscali.fr,+33 3 73 43 01 07,Saint Susannenec,2024-10-14,email cliqué
+CLI00413,Xavier,Marty,xavier.marty280@sfr.fr,+33 (0)3 57 44 14 48,BretonVille,2023-11-20,demande de devis
+CLI00414,Xavier,Leblanc,xavier.leblanc498@ifrance.com,+33 (0)3 25 35 57 70,Leduc,2024-01-05,email ouvert
+CLI00415,Céline,Regnier,céline.regnier399@dbmail.com,05 57 08 49 58,Moreau-sur-Mer,2025-04-11,appel commercial
+CLI00416,Vincent,Monnier,vincent.monnier685@hotmail.fr,+33 4 32 05 68 29,Perrier-sur-Lemoine,2025-05-01,aucune interaction récente
+CLI00417,Sabine,Hamel,sabine.hamel818@club-internet.fr,0158461735,Hernandez-sur-Mer,2025-02-13,demande de devis
+CLI00418,Jérôme,Marie,jérôme.marie742@live.com,+33 (0)3 57 17 80 78,Aubert,2024-07-25,email cliqué
+CLI00419,Christine,Peron,christine.peron861@wanadoo.fr,0476218230,ChevallierBourg,2023-07-23,demande de devis
+CLI00420,Benjamin,Torres,benjamin.torres942@hotmail.fr,0638018409,Riou,2026-03-22,email cliqué
+CLI00421,Tristan,Bourgeois,tristan.bourgeois638@sfr.fr,0427857142,Paris,2023-11-21,réclamation
+CLI00422,Laurence,Vaillant,laurence.vaillant28@wanadoo.fr,+33 (0)3 59 85 85 42,Baudry,2024-04-12,demande de devis
+CLI00423,David,Langlois,david.langlois607@dbmail.com,01 76 20 70 16,Saint Aurélie,2024-09-20,réclamation
+CLI00424,Maryse,Godard,maryse.godard679@tele2.fr,0468538179,Morin,2025-12-25,email ouvert
+CLI00425,Marthe,Bigot,marthe.bigot86@yahoo.fr,04 67 77 33 29,Marchal,2024-09-20,aucune interaction récente
+CLI00426,Martine,Chartier,martine.chartier439@dbmail.com,0631701715,Pinto-les-Bains,2024-05-23,email cliqué
+CLI00427,Adèle,Texier,adèle.texier888@laposte.net,+33 (0)5 53 15 81 48,Maréchalnec,2024-04-05,demande de devis
+CLI00428,Patrick,Lévy,patrick.lévy187@free.fr,05 31 15 39 66,Le Goff-sur-Devaux,2025-08-17,email ouvert
+CLI00429,Jérôme,Dupré,jérôme.dupré267@hotmail.fr,02 48 99 75 81,Schmitt-la-Forêt,2026-05-31,demande de devis
+CLI00430,Daniel,Joseph,daniel.joseph336@yahoo.fr,04 76 70 13 29,Saint Margaud,2023-12-29,email cliqué
+CLI00431,Élisabeth,Klein,élisabeth.klein466@ifrance.com,03 54 35 49 46,Blanc,2025-04-17,appel commercial
+CLI00432,Juliette,Gros,juliette.gros346@ifrance.com,+33 4 49 05 80 08,Masson,2026-02-16,demande de devis
+CLI00433,Antoine,Huet,antoine.huet285@noos.fr,04 71 66 66 83,Ollivier,2023-12-18,demande de devis
+CLI00434,Frédérique,Jacob,frédérique.jacob259@live.com,02 90 42 20 10,Mace,2026-03-14,email ouvert
+CLI00435,Margaux,Nguyen,margaux.nguyen482@laposte.net,+33 (0)2 62 67 96 92,Grégoirenec,2025-03-15,email ouvert
+CLI00436,Catherine,Jacob,catherine.jacob768@live.com,+33 3 44 69 09 73,Royernec,2026-04-29,réclamation
+CLI00437,Hortense,Poulain,hortense.poulain54@gmail.com,+33 (0)6 99 51 97 12,Hamel-la-Forêt,2024-12-09,appel commercial
+CLI00438,Édouard,Barbe,édouard.barbe230@hotmail.fr,+33 6 51 89 49 05,MerleVille,2024-12-13,aucune interaction récente
+CLI00439,Denise,Lelièvre,denise.lelièvre71@dbmail.com,04 89 44 20 94,Bertin-sur-Bonnet,2025-06-07,aucune interaction récente
+CLI00440,Inès,Roy,inès.roy42@gmail.com,0153471281,Fleury,2023-12-11,email ouvert
+CLI00441,Roger,Paris,roger.paris973@bouygtel.fr,+33 (0)2 47 92 92 75,Bertin,2025-11-22,email cliqué
+CLI00442,Noël,Vallée,noël.vallée205@free.fr,+33 (0)4 84 12 92 76,Gomezdan,2025-09-21,email ouvert
+CLI00443,Jacques,Lacroix,jacques.lacroix637@live.com,+33 (0)4 13 10 27 67,Ollivier,2025-10-13,email cliqué
+CLI00444,Odette,Rossi,odette.rossi245@orange.fr,05 34 74 28 60,Pons,2024-09-09,email cliqué
+CLI00445,Thomas,Laporte,thomas.laporte485@gmail.com,+33 (0)4 90 69 45 44,Sainte Marcellenec,2024-12-05,aucune interaction récente
+CLI00446,Margot,Bouvet,margot.bouvet118@orange.fr,+33 4 81 25 80 01,Sainte Eugène,2025-02-13,réclamation
+CLI00447,Marianne,Cohen,marianne.cohen971@live.com,+33 4 37 43 00 91,Saint Joséphine,2025-06-17,email cliqué
+CLI00448,Mathilde,Mathieu,mathilde.mathieu477@hotmail.fr,+33 5 17 92 12 44,PeltierBourg,2025-06-18,aucune interaction récente
+CLI00449,Robert,Lecoq,robert.lecoq263@noos.fr,0388214066,Lopez,2024-04-27,appel commercial
+CLI00450,Sylvie,Aubry,sylvie.aubry172@free.fr,02 18 73 96 27,Saint Élodienec,2024-03-14,réclamation
+CLI00451,Lucy,Gautier,lucy.gautier622@tele2.fr,0241011947,Sainte Henri,2025-07-03,aucune interaction récente
+CLI00452,Adrien,Morel,adrien.morel736@ifrance.com,0285569087,Nguyennec,2026-01-29,email ouvert
+CLI00453,Renée,Muller,renée.muller797@orange.fr,+33 (0)5 31 71 98 55,Maréchal,2023-09-17,email cliqué
+CLI00454,Madeleine,Robin,madeleine.robin988@live.com,0229743280,Peltier-sur-Mer,2024-06-10,appel commercial
+CLI00455,Amélie,Gautier,amélie.gautier111@live.com,02 31 73 20 30,Dupuis-sur-Camus,2024-09-17,réclamation
+CLI00456,Sophie,Gimenez,sophie.gimenez27@club-internet.fr,06 20 05 05 06,Saint Susandan,2026-05-14,appel commercial
+CLI00457,Élise,Gérard,élise.gérard590@orange.fr,+33 (0)1 64 27 07 90,Boutin,2025-06-29,aucune interaction récente
+CLI00458,Alexandre,Giraud,alexandre.giraud930@gmail.com,0237792911,Sainte Jeannine-sur-Mer,2023-09-26,demande de devis
+CLI00459,Luc,Launay,luc.launay407@dbmail.com,04 75 19 82 53,Saint Xavier,2023-09-26,aucune interaction récente
+CLI00460,Robert,Blanchard,robert.blanchard204@noos.fr,+33 4 99 82 73 90,Roussel,2025-12-01,email ouvert
+CLI00461,Louise,Raymond,louise.raymond607@ifrance.com,+33 1 45 71 00 21,Jacquet-sur-Delattre,2025-08-17,aucune interaction récente
+CLI00462,Sophie,Leleu,sophie.leleu851@tiscali.fr,+33 3 59 24 87 63,Bourdon,2025-08-15,aucune interaction récente
+CLI00463,Jeannine,Arnaud,jeannine.arnaud249@tiscali.fr,+33 (0)4 58 56 08 33,Saint Laureboeuf,2026-02-18,email ouvert
+CLI00464,Élodie,Guillou,élodie.guillou714@orange.fr,03 60 40 31 27,Schmitt-les-Bains,2025-07-22,appel commercial
+CLI00465,Benjamin,Vincent,benjamin.vincent871@live.com,0361645970,Saint Élise-les-Bains,2024-01-08,aucune interaction récente
+CLI00466,Antoine,Vallée,antoine.vallée615@wanadoo.fr,+33 (0)2 19 37 99 56,Letellier,2025-07-29,email ouvert
+CLI00467,Victor,Rolland,victor.rolland816@yahoo.fr,0370136363,Sainte Isabelledan,2023-09-16,réclamation
+CLI00468,Bernadette,Rodrigues,bernadette.rodrigues802@sfr.fr,03 27 65 27 35,Renaud,2024-07-21,email ouvert
+CLI00469,Arthur,Jacquot,arthur.jacquot356@gmail.com,0261177625,Collet,2025-05-10,réclamation
+CLI00470,Sophie,Diaz,sophie.diaz439@free.fr,+33 2 32 68 73 97,LopesVille,2025-09-26,aucune interaction récente
+CLI00471,Nathalie,Hoarau,nathalie.hoarau380@orange.fr,0582939290,BertrandVille,2026-07-09,email ouvert
+CLI00472,Nath,Lecoq,nath.lecoq519@wanadoo.fr,+33 (0)5 64 86 71 77,Perez,2025-03-22,aucune interaction récente
+CLI00473,Alexandre,Jacquot,alexandre.jacquot350@noos.fr,+33 2 57 54 31 07,Renard,2025-08-27,email ouvert
+CLI00474,Henriette,Letellier,henriette.letellier870@voila.fr,06 36 26 25 70,Sainte Marieboeuf,2025-02-19,demande de devis
+CLI00475,Théodore,Launay,théodore.launay843@bouygtel.fr,+33 2 29 95 08 50,Sainte Aiméedan,2025-05-27,demande de devis
+CLI00476,Aimée,Poulain,aimée.poulain109@free.fr,+33 (0)3 58 25 38 17,Boutin-sur-Lacroix,2025-10-21,demande de devis
+CLI00477,Patricia,Jean,patricia.jean984@dbmail.com,0415864015,Sauvage,2025-01-01,appel commercial
+CLI00478,Édith,Rivière,édith.rivière651@tiscali.fr,0630951371,Sainte Joseph-la-Forêt,2026-06-03,demande de devis
+CLI00479,Denis,Nicolas,denis.nicolas725@free.fr,0247272380,Delattre,2026-06-15,email cliqué
+CLI00480,Élodie,Payet,élodie.payet446@tiscali.fr,0562704310,Dijoux,2025-06-24,email cliqué
+CLI00481,Antoinette,Delorme,antoinette.delorme752@dbmail.com,0739887749,Schneider,2024-01-23,réclamation
+CLI00482,Raymond,Dumas,raymond.dumas989@tiscali.fr,0442025472,Renard-sur-Mendès,2025-02-24,aucune interaction récente
+CLI00483,Jules,Roger,jules.roger277@laposte.net,+33 3 76 10 59 27,Lemaître,2024-02-06,réclamation
+CLI00484,Gabrielle,Neveu,gabrielle.neveu828@gmail.com,0485257828,Rivière,2026-04-22,réclamation
+CLI00485,Anne,Didier,anne.didier794@laposte.net,04 72 20 88 54,Charpentier-les-Bains,2025-12-11,demande de devis
+CLI00486,Nathalie,Pichon,nathalie.pichon477@dbmail.com,+33 (0)6 95 02 81 40,Maurice-sur-Mer,2024-11-18,demande de devis
+CLI00487,Éric,Millet,éric.millet846@gmail.com,+33 3 67 43 01 87,Sainte Léondan,2024-07-01,aucune interaction récente
+CLI00488,Josette,Gros,josette.gros607@gmail.com,0545265650,Barre,2024-08-07,appel commercial
+CLI00489,Caroline,Guilbert,caroline.guilbert331@hotmail.fr,+33 5 96 67 42 66,Coste,2025-05-04,email cliqué
+CLI00490,Guy,Guillaume,guy.guillaume851@club-internet.fr,04 80 19 61 06,Legros,2024-01-26,email ouvert
+CLI00491,Célina,Lacombe,célina.lacombe286@laposte.net,+33 3 44 64 87 04,Bailly-sur-Teixeira,2025-03-22,demande de devis
+CLI00492,Célina,Hubert,célina.hubert250@voila.fr,+33 (0)2 90 44 71 46,Marin,2026-04-07,demande de devis
+CLI00493,Madeleine,Moulin,madeleine.moulin584@voila.fr,+33 (0)4 27 71 95 97,Nguyen-sur-Poirier,2025-06-06,réclamation
+CLI00494,Christelle,Lemonnier,christelle.lemonnier685@yahoo.fr,0145429025,Jacquot-les-Bains,2024-08-13,demande de devis
+CLI00495,Bernard,Maillard,bernard.maillard345@live.com,04 91 04 48 18,Gosselin,2025-06-06,email ouvert
+CLI00496,Paulette,Gauthier,paulette.gauthier507@free.fr,0470445189,Meunier,2023-08-02,appel commercial
+CLI00497,Diane,Carre,diane.carre187@live.com,05 56 52 13 28,Roche,2025-12-06,demande de devis
+CLI00498,Gabrielle,Bonneau,gabrielle.bonneau218@wanadoo.fr,+33 (0)5 59 71 12 07,Langlois,2025-08-14,appel commercial
+CLI00499,Guillaume,Pichon,guillaume.pichon817@wanadoo.fr,0324401322,Le Gall,2023-12-03,appel commercial
+CLI00500,Gilles,Chevalier,gilles.chevalier349@noos.fr,+33 (0)2 23 07 60 31,Saint Charlotte,2023-11-26,appel commercial
