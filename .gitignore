@@ -2,3 +2,4 @@ env
 logs/
 .marscode
 data_generator/output/
+.marscode/
