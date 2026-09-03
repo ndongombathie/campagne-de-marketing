@@ -58,7 +58,7 @@ marketing-campaigns-project/
 |---------------|----------------|--------------------------------------|
 | `crm.csv`     | `client_id`    | —                                    |
 | `publicites.csv`     | `campaign_id`  | —                                    |
-| `web_logs.csv`| `session_id`   | `user_id` -> crm.client_id (si connu)<br>`campaign_id` -> ads.campaign_id (si trafic payant) |
+| `web_logs.csv`| `session_id`   | `user_id` -> crm.client_id (si connu)<br>`campaign_id` -> publicites.campaign_id (si trafic payant) |
 
 Environ 55 % des sessions web sont liées à un client CRM identifié, le reste
 sont des visiteurs anonymes (réalisme). Environ 60 % des sessions proviennent
