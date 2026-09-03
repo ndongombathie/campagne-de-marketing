@@ -104,10 +104,3 @@ python etl/03_aggregate_gold.py
 streamlit run ../dashboard/streamlit_app.py
 ```
 
-## Pistes d'amélioration (bonus pour aller plus loin)
-
-- Ajouter du **data quality testing** (Great Expectations) entre silver et gold
-- Ajouter un **SCD (slowly changing dimension)** sur la table CRM
-- Passer les KPIs gold dans **PostgreSQL** en plus de MinIO pour des requêtes SQL rapides
-- Ajouter des **alertes Airflow** (email/Slack) en cas d'échec de tâche
-- Ajouter un **DAG de backfill** pour recalculer l'historique
