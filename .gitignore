@@ -1,5 +1,5 @@
 env
-logs
+logs/
 .marscode
 data_generator/output/
 .marscode
