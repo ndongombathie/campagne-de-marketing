@@ -57,7 +57,7 @@ marketing-campaigns-project/
 | Table         | Clé primaire   | Clé étrangère                       |
 |---------------|----------------|--------------------------------------|
 | `crm.csv`     | `client_id`    | —                                    |
-| `ads.csv`     | `campaign_id`  | —                                    |
+| `publicites.csv`     | `campaign_id`  | —                                    |
 | `web_logs.csv`| `session_id`   | `user_id` -> crm.client_id (si connu)<br>`campaign_id` -> ads.campaign_id (si trafic payant) |
 
 Environ 55 % des sessions web sont liées à un client CRM identifié, le reste

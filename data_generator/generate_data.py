@@ -51,7 +51,7 @@ def generate_campaigns(n_campaigns: int, start_date: datetime, days_span: int) -
         campaign_id = f"CMP{i:04d}"
         plateforme = random.choice(PLATEFORMES)
         date_diffusion = start_date + timedelta(days=random.randint(0, days_span))
-        budget_alloue = round(random.uniform(200, 5000), 2)
+        budget_alloue = round(random.uniform(20000, 500000), 2)
         impressions = random.randint(2000, 200000)
         # le CTR "réel" varie selon la plateforme pour rendre les données réalistes
         ctr_base = {"Google": 0.04, "Facebook": 0.02, "LinkedIn": 0.015,
